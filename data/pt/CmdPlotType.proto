@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum CmdPlotType {
+  CmdPlotTypeNone = 0;
+  CmdFinishPlotScRsp = 1133;
+  CmdFinishPlotCsReq = 1152;
+}

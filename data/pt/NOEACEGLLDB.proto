@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "Challenge.proto";
+import "ExtraLineupType.proto";
+import "EFPFMKKGKEH.proto";
+
+message NOEACEGLLDB {
+  Challenge _Status = 4;
+  uint32 deadAvatarNum = 13;
+  uint32 challengeID = 10;
+  uint32 jEMOFNGBFLB = 12;
+  ExtraLineupType lineupType = 5;
+  repeated EFPFMKKGKEH oOANAEFADHD = 9;
+}

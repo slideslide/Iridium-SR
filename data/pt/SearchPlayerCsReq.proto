@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SearchPlayerCsReq {
+  repeated uint32 lLGKNNBNOCB = 6;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IMLOGEMOJMI.proto";
+
+message GetRogueScoreRewardInfoScRsp {
+  IMLOGEMOJMI eLBKFCDJPGF = 12;
+  uint32 m_value = 4;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LKIEEFEKABP {
+  bool isFinish = 14;
+  uint32 missionID = 6;
+}

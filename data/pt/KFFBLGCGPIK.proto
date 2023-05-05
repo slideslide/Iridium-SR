@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HNOMJODNGFA.proto";
+
+message KFFBLGCGPIK {
+  string remarkName = 15;
+  HNOMJODNGFA fKABGAJEENM = 8;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message RequestGetAuthKey {
+  uint32 cIFHHBJIJLF = 15;
+  string dIDONFEKLOD = 7;
+  uint32 pJEPIBDPFLM = 12;
+}

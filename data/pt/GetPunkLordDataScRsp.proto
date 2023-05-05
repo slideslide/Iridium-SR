@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message GetPunkLordDataScRsp {
+  uint32 gCPDAFPIOCF = 6;
+  uint32 pFBAAIKJHAK = 1;
+  uint32 nIABOEBEFNK = 2;
+  uint32 m_value = 14;
+  repeated uint32 fIHBICKNPNP = 9;
+  uint32 hEEHIODHMFO = 5;
+  uint32 hKGJHBCHDNO = 13;
+  int64 cCDNGHMMOBL = 10;
+}

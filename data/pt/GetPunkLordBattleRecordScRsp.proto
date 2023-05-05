@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PunkLordBattleReplay.proto";
+import "OPPICHMGKGE.proto";
+import "PunkLordBattleRecord.proto";
+
+message GetPunkLordBattleRecordScRsp {
+  repeated PunkLordBattleReplay iPAEJKPDHOB = 15;
+  OPPICHMGKGE lGKFMLEHIMN = 7;
+  repeated PunkLordBattleRecord lFBIMNDEJBN = 2;
+  uint32 m_value = 3;
+}

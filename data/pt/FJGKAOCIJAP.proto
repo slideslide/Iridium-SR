@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PLLCHIEJKJE.proto";
+
+message FJGKAOCIJAP {
+  uint32 avatarCount = 12;
+  uint32 eACPALALGAG = 7;
+  uint32 lightConeCount = 8;
+  uint32 achievementCount = 14;
+  PLLCHIEJKJE cBDHCJIMHJH = 5;
+}

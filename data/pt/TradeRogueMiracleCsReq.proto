@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TradeRogueMiracleCsReq {
+  uint32 miracleID = 4;
+}

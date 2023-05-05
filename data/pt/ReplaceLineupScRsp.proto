@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ReplaceLineupScRsp {
+  uint32 m_value = 7;
+}

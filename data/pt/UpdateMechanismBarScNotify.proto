@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JBINJAPLEJA.proto";
+
+message UpdateMechanismBarScNotify {
+  uint32 planeID = 11;
+  JBINJAPLEJA mODCJIGEGLE = 15;
+  uint32 floorID = 4;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SetClientRaidTargetCountCsReq {
+  uint32 _CurrentProgress = 13;
+  uint32 targetID = 7;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message EDAMOCPDEPG {
+  MPANFNCCGPC jIBFFPHDNAD = 10;
+  uint32 equipmentUID = 5;
+}

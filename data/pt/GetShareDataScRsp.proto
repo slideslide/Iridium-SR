@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IBGNDFBIAHK.proto";
+
+message GetShareDataScRsp {
+  uint32 m_value = 11;
+  repeated IBGNDFBIAHK gOFHGHOGPFH = 4;
+}

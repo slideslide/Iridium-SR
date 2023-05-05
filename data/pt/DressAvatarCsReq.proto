@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DressAvatarCsReq {
+  uint32 equipmentUID = 1;
+  uint32 belongAvatarID = 7;
+}

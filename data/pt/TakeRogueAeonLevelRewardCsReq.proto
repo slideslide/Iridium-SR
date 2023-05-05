@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TakeRogueAeonLevelRewardCsReq {
+  uint32 aeonID = 15;
+  uint32 level = 9;
+}

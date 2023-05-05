@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OptionalReward.proto";
+
+message TakeAllRewardCsReq {
+  repeated OptionalReward kGABCDGBHJN = 8;
+}

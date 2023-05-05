@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SetAssistScRsp {
+  uint32 m_value = 13;
+  uint32 uID = 11;
+}

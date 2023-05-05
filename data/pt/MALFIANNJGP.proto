@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "CBMCLBLFIMJ.proto";
+
+message MALFIANNJGP {
+  uint32 currentStageIndex = 13;
+  uint32 jAPAENDCFCL = 8;
+  uint32 currentRoundNum = 10;
+  repeated uint32 nLDDFJCAHIA = 3;
+  bool hasTakenReward = 9;
+  repeated CBMCLBLFIMJ fJKMNEOJNFM = 6;
+  uint32 bestRoundRecord = 1;
+  uint32 challengeID = 11;
+}

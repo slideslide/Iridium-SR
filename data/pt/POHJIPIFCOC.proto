@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message POHJIPIFCOC {
+  uint32 seriesID = 10;
+  bool aCGJHGEMGPD = 14;
+}

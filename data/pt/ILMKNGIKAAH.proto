@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NPOMDNOHBOK.proto";
+
+message ILMKNGIKAAH {
+  NPOMDNOHBOK propExtraInfo = 10;
+  uint32 npcID = 13;
+}

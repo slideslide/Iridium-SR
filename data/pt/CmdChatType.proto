@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+enum CmdChatType {
+  CmdChatTypeNone = 0;
+  CmdGetPrivateChatHistoryScRsp = 3955;
+  CmdSendMsgCsReq = 3952;
+  CmdGetPrivateChatHistoryCsReq = 3978;
+  CmdPrivateMsgOfflineUsersScNotify = 3997;
+  CmdSendMsgScRsp = 3933;
+  CmdRevcMsgScNotify = 3919;
+}

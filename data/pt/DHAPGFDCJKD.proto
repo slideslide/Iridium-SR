@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "NNKELAEAGEE.proto";
+import "IIEJCHKIFOH.proto";
+import "EJECOENBFIF.proto";
+import "IMLOGEMOJMI.proto";
+
+message DHAPGFDCJKD {
+  ItemList itemList6 = 6;
+  bool isWin = 2;
+  uint32 rogueAreaID = 874;
+  uint32 areaFirstPassScore = 5;
+  NNKELAEAGEE fGMIPHALHNK = 15;
+  IIEJCHKIFOH aFGFDLLGCJK = 4;
+  ItemList itemList3 = 3;
+  uint32 talentCoin = 12;
+  uint32 reachRoomCount = 920;
+  ItemList itemList = 10;
+  bool kKGLBNMNCEN = 7;
+  uint32 passRoomCount = 14;
+  uint32 roomScore = 13;
+  EJECOENBFIF pOHKGEIFKLL = 1;
+  IMLOGEMOJMI aMPKDENGNJK = 11;
+  IMLOGEMOJMI fNFHGDIGKFA = 9;
+  uint32 totalScore = 8;
+}

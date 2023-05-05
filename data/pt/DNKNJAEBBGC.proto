@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message DNKNJAEBBGC {
+  uint32 monsterID = 15;
+  uint32 nPPBCCBKGJN = 6;
+  uint32 worldLevel = 14;
+  uint32 oAAJGODKJNN = 10;
+  bool isGenBySystem = 11;
+  int64 createdTimeStamp = 2;
+}

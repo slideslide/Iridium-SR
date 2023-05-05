@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OPPICHMGKGE.proto";
+
+message TakeKilledPunkLordMonsterScoreScRsp {
+  repeated OPPICHMGKGE nDIMNAOEKCL = 8;
+  uint32 m_value = 5;
+  uint32 totalScore = 7;
+  bool isTakeAll = 6;
+}

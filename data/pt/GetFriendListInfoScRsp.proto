@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KFFBLGCGPIK.proto";
+import "HNOMJODNGFA.proto";
+
+message GetFriendListInfoScRsp {
+  repeated KFFBLGCGPIK dGDEDHAFKIP = 11;
+  repeated HNOMJODNGFA kDGLFFPOOFI = 7;
+  uint32 m_value = 1;
+}

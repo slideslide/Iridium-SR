@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum CmdRndOptionType {
+  CmdRndOptionTypeNone = 0;
+  CmdGetRndOptionCsReq = 3452;
+  CmdDailyFirstMeetPamCsReq = 3419;
+  CmdGetRndOptionScRsp = 3433;
+  CmdDailyFirstMeetPamScRsp = 3497;
+}

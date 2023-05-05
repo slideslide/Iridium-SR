@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PunkLordShareType.proto";
+
+message SharePunkLordMonsterCsReq {
+  uint32 uID = 8;
+  PunkLordShareType shareType = 11;
+  uint32 monsterID = 9;
+}

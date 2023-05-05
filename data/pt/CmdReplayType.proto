@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum CmdReplayType {
+  CmdReplayTypeNone = 0;
+  CmdGetReplayTokenScRsp = 3533;
+  CmdGetPlayerReplayInfoScRsp = 3597;
+  CmdGetPlayerReplayInfoCsReq = 3519;
+  CmdGetReplayTokenCsReq = 3552;
+}

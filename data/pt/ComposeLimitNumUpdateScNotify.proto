@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "AHBGEPBBAFC.proto";
+
+message ComposeLimitNumUpdateScNotify {
+  AHBGEPBBAFC aIHLFHJCKDK = 11;
+}

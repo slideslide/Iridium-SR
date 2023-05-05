@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CmdLockEquipmentCsReq {
+  uint32 equipmentUID = 5;
+  bool isLock = 9;
+}

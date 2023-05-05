@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PunkLordBattleRecord.proto";
+import "BPNBPBKOAKJ.proto";
+
+message PunkLordBattleResultScNotify {
+  PunkLordBattleRecord punkLordBattleRecord = 4;
+  BPNBPBKOAKJ iEPLHBNNEAA = 2;
+  uint32 oBJAPBJNFNM = 15;
+  uint32 gKLEGJLOBLI = 3;
+  uint32 lALBEBJJKMC = 9;
+}

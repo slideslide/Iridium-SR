@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message TextJoinSaveCsReq {
+  uint32 itemID = 12;
+  uint32 iD = 13;
+  string aNEGCILFLHN = 11;
+}

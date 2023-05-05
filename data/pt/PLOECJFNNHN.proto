@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message PLOECJFNNHN {
+  uint32 jNAODBMPPLN = 10;
+  int64 beginTimeStamp = 8;
+  uint32 lGCKJDDGIIP = 15;
+  int64 endTimeStamp = 3;
+}

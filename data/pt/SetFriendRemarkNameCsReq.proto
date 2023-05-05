@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SetFriendRemarkNameCsReq {
+  uint32 uID = 2;
+  string remarkName = 5;
+}

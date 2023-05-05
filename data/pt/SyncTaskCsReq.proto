@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SyncTaskCsReq {
+  string aJGLMBPCOGL = 11;
+}

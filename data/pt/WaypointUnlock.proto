@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum WaypointUnlock {
+  WAYPOINT_UNLOCK_NONE = 0;
+  WAYPOINT_UNLOCK_PRE = 1;
+  WAYPOINT_UNLOCK_LEVEL = 2;
+}

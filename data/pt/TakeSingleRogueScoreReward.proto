@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TakeSingleRogueScoreReward {
+  repeated uint32 kNJLOPEHHFN = 2;
+  uint32 poolID = 10;
+}

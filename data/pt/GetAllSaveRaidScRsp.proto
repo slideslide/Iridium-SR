@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HCKFCEFIPBJ.proto";
+
+message GetAllSaveRaidScRsp {
+  uint32 m_value = 4;
+  repeated HCKFCEFIPBJ kIMADONFCGE = 6;
+}

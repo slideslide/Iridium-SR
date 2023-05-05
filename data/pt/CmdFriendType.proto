@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+enum CmdFriendType {
+  CmdFriendTypeNone = 0;
+  CmdSetAssistCsReq = 2994;
+  CmdGetFriendRecommendListInfoCsReq = 2985;
+  CmdReportPlayerScRsp = 2962;
+  CmdDeleteBlacklistScRsp = 2943;
+  CmdGetFriendListInfoCsReq = 2952;
+  CmdApplyFriendScRsp = 2947;
+  CmdDeleteBlacklistCsReq = 2991;
+  CmdGetPlayerDetailInfoScRsp = 2997;
+  CmdNewAssistHistoryNotify = 2979;
+  CmdGetCurAssistCsReq = 2927;
+  CmdSearchPlayerCsReq = 2940;
+  CmdSetFriendRemarkNameScRsp = 2993;
+  CmdGetAssistHistoryScRsp = 2918;
+  CmdSyncAddBlacklistScNotify = 2973;
+  CmdSyncApplyFriendScNotify = 2960;
+  CmdSetFriendRemarkNameCsReq = 2969;
+  CmdHandleFriendScRsp = 2950;
+  CmdSetAssistScRsp = 2949;
+  CmdReportPlayerCsReq = 2986;
+  CmdGetCurAssistScRsp = 3000;
+  CmdCurAssistChangedNotify = 2998;
+  CmdGetFriendApplyListInfoCsReq = 2978;
+  CmdDeleteFriendScRsp = 2924;
+  CmdSyncDeleteFriendScNotify = 2951;
+  CmdGetFriendRecommendListInfoScRsp = 2944;
+  CmdHandleFriendCsReq = 2946;
+  CmdGetFriendApplyListInfoScRsp = 2955;
+  CmdGetAssistListCsReq = 2966;
+  CmdSyncHandleFriendScNotify = 2909;
+  CmdGetPlayerDetailInfoCsReq = 2919;
+  CmdGetFriendListInfoScRsp = 2933;
+  CmdGetAssistListScRsp = 2953;
+  CmdSearchPlayerScRsp = 2968;
+  CmdAddBlacklistCsReq = 2957;
+  CmdTakeAssistRewardScRsp = 2963;
+  CmdTakeAssistRewardCsReq = 2917;
+  CmdDeleteFriendCsReq = 2922;
+  CmdGetAssistHistoryCsReq = 2990;
+  CmdAddBlacklistScRsp = 2956;
+  CmdApplyFriendCsReq = 2904;
+}

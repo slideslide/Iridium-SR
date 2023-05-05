@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "JOBHKMCCCLO.proto";
+
+message JILMMONIHEE {
+  repeated uint32 mCHKCJNELMJ = 9;
+  repeated JOBHKMCCCLO oLDGAMGPDMA = 5;
+  uint32 bCKKMLOBHOD = 4;
+  uint32 fIEEMJDNMLA = 13;
+}

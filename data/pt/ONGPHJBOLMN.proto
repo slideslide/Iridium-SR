@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "RogueHandbookMiracleStatus.proto";
+
+message ONGPHJBOLMN {
+  uint32 miracleID = 1;
+  bool isRewardTaken = 9;
+  RogueHandbookMiracleStatus _Status = 4;
+}

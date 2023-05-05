@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DPKOIHHFGPG.proto";
+
+message SyncTimeReq {
+  uint32 cMDPBJCMKPK = 12;
+  DPKOIHHFGPG bFGJBPEGFNB = 6;
+  uint64 nowMsTimeStamp = 3;
+}

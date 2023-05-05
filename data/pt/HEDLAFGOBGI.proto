@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HNOMJODNGFA.proto";
+
+message HEDLAFGOBGI {
+  HNOMJODNGFA fKABGAJEENM = 10;
+  int64 aJMKNNIKCAC = 3;
+}

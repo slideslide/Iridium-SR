@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EIFGNFCLEIN {
+  uint32 setID = 9;
+  uint32 type = 14;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ServerData.proto";
+
+message GlobalDispatchData {
+  uint32 m_value = 1;
+  string stopDesc = 2;
+  string forceUpdateUrl = 3;
+  repeated ServerData eIIAPMEBGFK = 4;
+  string top = 5;
+}

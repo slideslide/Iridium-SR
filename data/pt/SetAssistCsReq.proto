@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SetAssistCsReq {
+  uint32 uID = 8;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OEFEOGHDJIO.proto";
+
+message ELJJJNHKBIN {
+  uint32 nFGPEJPECIL = 4;
+  uint32 entityID = 2;
+  OEFEOGHDJIO hMKLFKCMLNL = 12;
+}

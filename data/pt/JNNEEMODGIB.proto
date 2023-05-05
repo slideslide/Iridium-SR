@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+import "FPKAFPGPFDE.proto";
+import "MonsterStatisticsData.proto";
+import "PFPLNKCLLBK.proto";
+import "LGPNMEICFGF.proto";
+import "LPNJGOANNNA.proto";
+import "BattleEndReason.proto";
+import "DIDDMMAKIMJ.proto";
+import "BNPLFIMEAPC.proto";
+import "CharacterDataComponent.proto";
+import "GCJJDMGALCH.proto";
+
+message JNNEEMODGIB {
+  uint32 totalBattleTurns = 1;
+  uint32 eLHMOGGHEJK = 2;
+  repeated uint32 fLGABFJNDKH = 3;
+  uint32 lAMADAPLBOJ = 4;
+  double jFOLPLBENNN = 5;
+  double iEnumerable = 6;
+  repeated FPKAFPGPFDE lMEHENCHOEF = 7;
+  repeated MonsterStatisticsData hCBIHEGBAEG = 8;
+  uint32 challengeTurnCount = 9;
+  uint32 cleanWave = 10;
+  uint32 totalAvatarTurns = 11;
+  uint32 totalMonsterTurns = 12;
+  map<string, float> oPIGDPEDDCI = 13;
+  uint32 totalScore = 14;
+  repeated PFPLNKCLLBK eHHBOEHIIMI = 16;
+  LGPNMEICFGF mODCJIGEGLE = 17;
+  repeated LPNJGOANNNA lBBPIIDAODH = 18;
+  BattleEndReason battleEndReason = 19;
+  repeated DIDDMMAKIMJ eJHEFPLBAHK = 20;
+  repeated BNPLFIMEAPC kKAJMAAGOFM = 21;
+  repeated int32 dHIJHKHKIGC = 22;
+  repeated CharacterDataComponent gPPPGKLNLKI = 23;
+  repeated GCJJDMGALCH hABFDMCCFFI = 24;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BOGGPAELPEP.proto";
+
+message SceneEnterStageScRsp {
+  uint32 m_value = 15;
+  BOGGPAELPEP mEGJDKGGEOJ = 12;
+}

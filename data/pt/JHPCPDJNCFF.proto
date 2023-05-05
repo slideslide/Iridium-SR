@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HKBBILNBCGE.proto";
+import "MessageSectionStatus.proto";
+
+message JHPCPDJNCFF {
+  repeated HKBBILNBCGE eHJDNGJBCFD = 9;
+  uint32 pEJJDKGIDOO = 4;
+  uint32 id = 14;
+  repeated uint32 oCLKNIHLMAK = 7;
+  MessageSectionStatus _Status = 1;
+}

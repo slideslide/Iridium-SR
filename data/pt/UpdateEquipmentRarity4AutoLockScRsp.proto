@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message UpdateEquipmentRarity4AutoLockScRsp {
+  uint32 m_value = 15;
+  bool isLock = 2;
+}

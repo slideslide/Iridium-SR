@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message IKBPPKADFJG {
+  AvatarType characterAvatarType = 5;
+  uint32 realID = 14;
+}

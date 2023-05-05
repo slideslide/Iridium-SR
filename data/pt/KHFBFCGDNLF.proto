@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KHFBFCGDNLF {
+  uint32 chapterRewardId = 15;
+  uint32 m_value = 4;
+  uint32 chapterId = 1;
+}

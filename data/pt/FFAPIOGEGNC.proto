@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FFAPIOGEGNC {
+  uint32 level = 10;
+  uint32 realID = 6;
+}

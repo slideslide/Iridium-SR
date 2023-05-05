@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "AAIBPJCPOIL.proto";
+
+message LNLHNPDBEAD {
+  uint32 m_value = 4;
+  AAIBPJCPOIL iDLEBBNEPGA = 8;
+  uint64 fOFKDPCKJOP = 15;
+  uint64 nowMsTimeStamp = 9;
+}

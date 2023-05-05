@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message SetGroupCustomSaveDataScRsp {
+  uint32 curMapEntryID = 15;
+  uint32 m_value = 5;
+  uint32 groupID = 1;
+}

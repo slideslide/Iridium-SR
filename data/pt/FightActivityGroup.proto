@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message FightActivityGroup {
+  uint32 passedMaxDifficultyLevel = 14;
+  repeated uint32 takenDifficultyLevelRewardList = 9;
+  uint32 groupId = 2;
+}

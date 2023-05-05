@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DNKNJAEBBGC.proto";
+
+message PunkLordMonsterKilledNotify {
+  DNKNJAEBBGC gKENBLNNNMD = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SetSignatureCsReq {
+  string _Signature = 13;
+}

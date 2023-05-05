@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum CmdPamMissionType {
+  CmdPamMissionTypeNone = 0;
+  CmdAcceptedPamMissionExpireScRsp = 4033;
+  CmdAcceptedPamMissionExpireCsReq = 4052;
+  CmdSyncAcceptedPamMissionNotify = 4019;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GBBMANBPFHL {
+  string aNEGCILFLHN = 8;
+  uint32 iD = 9;
+  uint32 itemID = 10;
+}

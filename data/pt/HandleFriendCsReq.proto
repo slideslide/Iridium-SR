@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HandleFriendCsReq {
+  uint32 uID = 8;
+  bool isAccept = 14;
+}

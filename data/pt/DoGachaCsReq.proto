@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message DoGachaCsReq {
+  uint32 randomNum = 9;
+  uint32 gachaID = 15;
+  uint32 num = 2;
+  uint32 nFHNKNJGBOD = 1;
+}

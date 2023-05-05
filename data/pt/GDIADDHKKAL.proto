@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message GDIADDHKKAL {
+  uint32 nFIBGAJFMKC = 1;
+  uint32 cBHBGJJGMPA = 2;
+  uint32 dODADLHFLFH = 3;
+  uint32 lPCMFDBDAGJ = 4;
+  uint32 dPHPJHNPNAB = 5;
+  uint32 skillIndex = 6;
+  uint32 cCGHMGJDCDN = 7;
+  string oEANIKGPFHD = 8;
+}

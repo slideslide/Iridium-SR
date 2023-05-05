@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "JEIKIKEJJHA.proto";
+import "FMBNCLLOGPO.proto";
+
+message MODMGOPBHIM {
+  uint64 firstMetTimeStamp = 2;
+  repeated uint32 lCNNJJJLDKG = 15;
+  uint32 level = 10;
+  repeated JEIKIKEJJHA iDGOOGNMGIN = 13;
+  repeated FMBNCLLOGPO nMDCNDKFKNO = 9;
+  uint32 rank = 3;
+  uint32 currentExp = 11;
+  uint32 belongAvatarID = 4;
+  uint32 promotion = 6;
+  uint32 equipmentUID = 8;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LBELHJFIGOD.proto";
+import "RogueMiracleSourceType.proto";
+
+message RemoveRogueMiracleScNotify {
+  LBELHJFIGOD fBNHDAACHAG = 1;
+  RogueMiracleSourceType pJFNNLLKCAC = 8;
+}

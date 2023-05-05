@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FHKDHKAGCFF.proto";
+import "AAIBPJCPOIL.proto";
+
+message SceneEntityMoveScRep {
+  repeated FHKDHKAGCFF kEGDFFIPEIC = 12;
+  AAIBPJCPOIL iDLEBBNEPGA = 5;
+  uint32 m_value = 15;
+}

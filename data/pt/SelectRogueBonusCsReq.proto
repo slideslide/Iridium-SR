@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SelectRogueBonusCsReq {
+  uint32 rogueBonusID = 8;
+}

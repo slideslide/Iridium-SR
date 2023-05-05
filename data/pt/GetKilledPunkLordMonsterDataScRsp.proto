@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OPPICHMGKGE.proto";
+import "DNKNJAEBBGC.proto";
+
+message GetKilledPunkLordMonsterDataScRsp {
+  repeated OPPICHMGKGE kPOLIMDMDJH = 12;
+  repeated DNKNJAEBBGC pMDPAGIDBBA = 4;
+  uint32 m_value = 15;
+}

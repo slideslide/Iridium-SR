@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GetSaveRaid {
+  uint32 currentRaidID = 1;
+  uint32 worldLevel = 9;
+}

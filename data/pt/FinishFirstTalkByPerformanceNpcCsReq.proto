@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FinishFirstTalkByPerformanceNpcCsReq {
+  uint32 performanceID = 11;
+}

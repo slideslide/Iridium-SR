@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KOAAJIDBDAJ {
+  string lCLEGFLNHNH = 1;
+  uint32 count = 2;
+  double eJMIOGABLEM = 3;
+}

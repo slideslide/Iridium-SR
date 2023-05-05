@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+import "NNLKBJPJJGN.proto";
+import "BFHLOGCKMHN.proto";
+
+message GFHJOJHANJD {
+  uint32 count = 6;
+  repeated uint32 oDKIJBLEJMP = 4;
+  uint32 rollBuffMaxTimes = 12;
+  uint32 selectBuffSourceCurCount = 2;
+  MPANFNCCGPC pIDNCHPJPON = 14;
+  repeated NNLKBJPJJGN lBDPPFIBFMJ = 7;
+  uint32 rollBuffTimes = 3;
+  uint32 selectBuffSourceTotalCount = 13;
+  uint32 selectBuffSourceHintID = 5;
+  uint32 dCKKOEIJKCK = 11;
+  bool canRoll = 8;
+  bool selectBuffShowHandbookHint = 1;
+  repeated BFHLOGCKMHN mEJGKGPGFEC = 15;
+}

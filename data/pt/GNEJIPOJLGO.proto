@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BHBJAPFPLCO.proto";
+
+message GNEJIPOJLGO {
+  string _Signature = 11;
+  bool eJIIDKNLILB = 12;
+  repeated BHBJAPFPLCO kGILMHEEOKK = 5;
+}

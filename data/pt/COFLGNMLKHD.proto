@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message COFLGNMLKHD {
+  uint32 id = 1;
+  uint32 rank = 2;
+  uint32 promotion = 3;
+  uint32 level = 4;
+}

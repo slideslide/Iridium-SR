@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message EMDKGJLHCJL {
+  uint32 maxLevel = 1;
+  uint32 currentExp = 7;
+  uint32 level = 6;
+  uint32 aeonID = 13;
+}

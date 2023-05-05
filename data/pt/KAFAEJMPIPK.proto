@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message KAFAEJMPIPK {
+  uint32 slot = 12;
+  AvatarType characterAvatarType = 14;
+  uint32 pEHLPPIINLH = 11;
+  uint32 xFFFFFFFF = 7;
+  uint32 id = 1;
+  uint32 bCJFPADGHBK = 10;
+}

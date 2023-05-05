@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BFHLOGCKMHN.proto";
+import "NNLKBJPJJGN.proto";
+
+message EEKPOGGAGFI {
+  repeated BFHLOGCKMHN mEJGKGPGFEC = 15;
+  uint32 reforgeHintID = 14;
+  repeated NNLKBJPJJGN nJLPLPHHGLE = 2;
+  bool selectBuffShowHandbookHint = 7;
+  repeated NNLKBJPJJGN eOOEDBHHBAA = 10;
+}

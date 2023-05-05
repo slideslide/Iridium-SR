@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NNLKBJPJJGN {
+  uint32 level = 1;
+  uint32 buffID = 12;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message SceneCheckpointRefreshMonsterReq {
+  uint32 entityID = 4;
+  uint32 floorID = 6;
+  uint32 planeID = 12;
+}

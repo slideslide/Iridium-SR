@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "ECDCPLDNNFF.proto";
+import "EIPIMNIEOEL.proto";
+import "JBINJAPLEJA.proto";
+import "SceneEntityInfo.proto";
+import "HEDPKIDODNN.proto";
+
+message HCFBMEBDAEG {
+  uint32 hOCBBLHJJNI = 7;
+  repeated ECDCPLDNNFF oFPINMNPMAM = 6;
+  uint32 curMapEntryID = 1;
+  repeated EIPIMNIEOEL jMJLFIBDDBC = 12;
+  uint32 jHNMDMEHBII = 10;
+  uint32 currWorldID = 13;
+  uint32 planeID = 5;
+  JBINJAPLEJA mODCJIGEGLE = 8;
+  repeated uint32 oMGOOLPICCA = 2;
+  repeated uint32 cPADEJILABD = 3;
+  repeated SceneEntityInfo iEKMNLCNKIM = 15;
+  repeated HEDPKIDODNN fPIFDGAMDDG = 4;
+  uint32 _RaidGameMode = 9;
+  uint32 floorID = 14;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MissionData.proto";
+
+message GAJIGOFFDLN {
+  repeated uint32 oLJNNHFJELO = 2;
+  repeated uint32 nOEKEIGGOAL = 4;
+  repeated MissionData gLKOKIPDGNG = 8;
+  repeated uint32 dDPMEKGOMPP = 9;
+}

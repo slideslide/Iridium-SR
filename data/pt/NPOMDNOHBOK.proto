@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KLPAJDKELFG.proto";
+import "FCKFMNHOGEK.proto";
+
+message NPOMDNOHBOK {
+  oneof HNAEKCMKDDM {
+    KLPAJDKELFG rogueInfo = 3;
+    FCKFMNHOGEK trainVisitorInfo = 11;
+  }
+}

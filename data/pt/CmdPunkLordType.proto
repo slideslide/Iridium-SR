@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+enum CmdPunkLordType {
+  CmdPunkLordTypeNone = 0;
+  CmdTakeKilledPunkLordMonsterScoreCsReq = 3266;
+  CmdGetPunkLordBattleRecordCsReq = 3249;
+  CmdPunkLordMonsterInfoScNotify = 3251;
+  CmdGetPunkLordDataCsReq = 3257;
+  CmdStartPunkLordRaidScRsp = 3297;
+  CmdGetPunkLordBattleRecordScRsp = 3227;
+  CmdGetPunkLordDataScRsp = 3256;
+  CmdSummonPunkLordMonsterScRsp = 3247;
+  CmdSharePunkLordMonsterScRsp = 3255;
+  CmdTakePunkLordPointRewardScRsp = 3224;
+  CmdGetKilledPunkLordMonsterDataCsReq = 3262;
+  CmdPunkLordRaidTimeOutScNotify = 3285;
+  CmdPunkLordBattleResultScNotify = 3286;
+  CmdSharePunkLordMonsterCsReq = 3278;
+  CmdPunkLordMonsterKilledNotify = 3268;
+  CmdSummonPunkLordMonsterCsReq = 3204;
+  CmdPunkLordDataChangeNotify = 3294;
+  CmdTakePunkLordPointRewardCsReq = 3222;
+  CmdGetPunkLordMonsterDataScRsp = 3233;
+  CmdGetKilledPunkLordMonsterDataScRsp = 3291;
+  CmdTakeKilledPunkLordMonsterScoreScRsp = 3253;
+  CmdGetPunkLordMonsterDataCsReq = 3252;
+  CmdStartPunkLordRaidCsReq = 3219;
+}

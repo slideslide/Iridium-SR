@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LCLBCHKIDOO.proto";
+
+message OIAECJPDPPM {
+  oneof HJACBHJBNMB {
+    LCLBCHKIDOO rogueInfo = 6;
+  }
+}

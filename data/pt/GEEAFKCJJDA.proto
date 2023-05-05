@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GEEAFKCJJDA {
+  uint32 monsterID = 1;
+  uint32 bILPHDCOGBH = 2;
+  uint32 iEEMGDKFGOC = 3;
+}

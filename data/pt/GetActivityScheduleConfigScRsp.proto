@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PLOECJFNNHN.proto";
+
+message GetActivityScheduleConfigScRsp {
+  repeated PLOECJFNNHN bMLKBEJAKGF = 11;
+  uint32 m_value = 8;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JBINJAPLEJA {
+  uint32 cIOKGOKLFPG = 15;
+  uint32 mechanismBarState = 9;
+}

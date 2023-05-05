@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SceneUpdatePositionVersionNotify {
+  uint32 clientPosVersion = 7;
+}

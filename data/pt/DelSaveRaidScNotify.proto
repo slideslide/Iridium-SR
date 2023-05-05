@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DelSaveRaidScNotify {
+  uint32 currentRaidID = 4;
+  uint32 worldLevel = 12;
+}

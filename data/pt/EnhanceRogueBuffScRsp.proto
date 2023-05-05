@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NNLKBJPJJGN.proto";
+
+message EnhanceRogueBuffScRsp {
+  NNLKBJPJJGN aJPCCNKJLDH = 8;
+  uint32 m_value = 6;
+  bool lNELCBJMOIB = 3;
+}

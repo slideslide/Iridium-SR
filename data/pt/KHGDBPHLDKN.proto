@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KHGDBPHLDKN {
+  uint32 pIOMGCCCLNC = 2;
+  uint32 cJGAHKMFLHK = 11;
+  uint32 totalScore = 6;
+}

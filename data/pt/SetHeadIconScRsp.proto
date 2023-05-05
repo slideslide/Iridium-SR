@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SetHeadIconScRsp {
+  uint32 m_value = 5;
+  uint32 _HeadIconID = 11;
+}

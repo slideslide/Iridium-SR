@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IBBECOIJJEL {
+  uint32 fHACKJOFIFI = 8;
+  uint32 eventID = 12;
+}

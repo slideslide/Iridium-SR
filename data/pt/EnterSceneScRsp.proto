@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HCFBMEBDAEG.proto";
+
+message EnterSceneScRsp {
+  uint32 m_value = 7;
+  HCFBMEBDAEG _SceneInfo = 13;
+}

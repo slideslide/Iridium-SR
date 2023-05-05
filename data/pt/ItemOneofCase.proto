@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum ItemOneofCase {
+  ItemOneofCase_None = 0;
+  ItemOneofCase_PileItem = 15;
+  ItemOneofCase_EquipmentUniqueId = 4;
+  ItemOneofCase_RelicUniqueId = 9;
+}

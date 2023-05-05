@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TextJoinQueryCsReq {
+  repeated uint32 hHOKFALBNFM = 1;
+}

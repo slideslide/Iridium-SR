@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HKBBILNBCGE.proto";
+import "ItemList.proto";
+
+message FinishPerformSectionIdScRsp {
+  repeated HKBBILNBCGE eHJDNGJBCFD = 8;
+  uint32 sectionID = 1;
+  ItemList itemList = 13;
+  uint32 m_value = 12;
+}

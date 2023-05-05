@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "KCOHEJBAPMI.proto";
+
+message IBEMHENEALJ {
+  oneof JJBLNBGGOMM {
+    ItemList itemResult = 4;
+    KCOHEJBAPMI buffResult = 3;
+  }
+  uint32 rogueBonusID = 1;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LCIKOENMNNP.proto";
+
+message SetSpringRecoverConfigScRsp {
+  uint32 m_value = 10;
+  LCIKOENMNNP jJPFKBLEJAF = 3;
+}

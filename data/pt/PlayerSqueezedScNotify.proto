@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "Kick.proto";
+import "EGHHJDHHBKM.proto";
+
+message PlayerSqueezedScNotify {
+  Kick oLNBDJFPNBF = 9;
+  EGHHJDHHBKM kKLKFLHMIII = 11;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message PlayerGetTokenCsReq {
+  string hOMLOMIBMKH = 15;
+  uint32 globalVars = 6;
+  string aABLGNEFPMI = 3;
+  string pPIEAKOMAKD = 13;
+  uint32 uID = 5;
+  uint32 platformType = 4;
+  uint32 fACLBMGJMGK = 8;
+  uint32 eAHHCKBOGFA = 14;
+}

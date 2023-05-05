@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SyncAddBlacklistScNotify {
+  uint32 uID = 13;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KGIIDAJFBHF.proto";
+
+message GetDailyActiveInfoScRsp {
+  repeated uint32 hPGBHIIPEBG = 2;
+  repeated KGIIDAJFBHF hMHEJHCHKGH = 9;
+  uint32 m_value = 5;
+  uint32 lOFEHPLHBAN = 14;
+}

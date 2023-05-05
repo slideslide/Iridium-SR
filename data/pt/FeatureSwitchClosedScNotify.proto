@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FeatureSwitchType.proto";
+
+message FeatureSwitchClosedScNotify {
+  FeatureSwitchType jCKICHCPDGM = 15;
+}

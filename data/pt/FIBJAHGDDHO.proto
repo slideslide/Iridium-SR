@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+import "IAOIGMDFPFB.proto";
+import "BFFPPCIHKPO.proto";
+import "NNLKBJPJJGN.proto";
+import "PIIHBCJHEGM.proto";
+import "RogueStatus.proto";
+import "IMLOGEMOJMI.proto";
+import "FGJHJJHKCCL.proto";
+import "LJIPPICDNBK.proto";
+import "IJLAMBKHALF.proto";
+import "GFHJOJHANJD.proto";
+import "GLPCIOANLEK.proto";
+import "FCMECLMPDMI.proto";
+import "ALNODEJPDCK.proto";
+import "EEKPOGGAGFI.proto";
+import "FMCOHODMBKF.proto";
+
+message FIBJAHGDDHO {
+  IAOIGMDFPFB iEDGFABOFEK = 881;
+  BFFPPCIHKPO mDKAFCOOCEP = 16;
+  repeated uint32 iHLBDHJHLOO = 1923;
+  repeated NNLKBJPJJGN lBDPPFIBFMJ = 14;
+  PIIHBCJHEGM kADLBMDJHGM = 728;
+  uint32 seasonID = 13;
+  RogueStatus _Status = 1;
+  uint32 count = 4;
+  IMLOGEMOJMI nFLBEKLNCEJ = 1109;
+  uint32 seasonAreaProgress = 935;
+  repeated FGJHJJHKCCL bJBFCDLKOBP = 109;
+  LJIPPICDNBK oECMMOIJNCF = 1752;
+  uint32 talentCoin = 885;
+  IJLAMBKHALF kKFJNGJAFCP = 2;
+  GFHJOJHANJD gAKGNIIDINK = 1622;
+  int64 beginTimeStamp = 9;
+  repeated uint32 kHGKJKJEJGF = 6;
+  GLPCIOANLEK jGBEAFDPELD = 612;
+  int64 endTimeStamp = 10;
+  FCMECLMPDMI hKDDIIHPCNA = 133;
+  repeated uint32 mCJGAHCPGON = 12;
+  ALNODEJPDCK cPKLMEGKGGI = 1325;
+  EEKPOGGAGFI mDDNMPJCHPP = 685;
+  FMCOHODMBKF mMNDHBPNHNC = 136;
+}

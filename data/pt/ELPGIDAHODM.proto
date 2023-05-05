@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ELPGIDAHODM {
+  uint32 realID = 1;
+  int32 pOHBNEDFCBN = 2;
+}

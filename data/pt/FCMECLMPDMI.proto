@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ONGPHJBOLMN.proto";
+import "GLPCIOANLEK.proto";
+
+message FCMECLMPDMI {
+  repeated ONGPHJBOLMN dGJPIJFEIIC = 9;
+  bool selectBuffShowHandbookHint = 10;
+  GLPCIOANLEK jGBEAFDPELD = 5;
+  repeated uint32 eAKBCDBBJPM = 3;
+}

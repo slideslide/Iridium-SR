@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "QuestStatus.proto";
+
+message FHBEBAPKNKM {
+  uint32 id = 8;
+  int64 achievedTime = 3;
+  uint32 _CurrentProgress = 4;
+  QuestStatus _Status = 11;
+}

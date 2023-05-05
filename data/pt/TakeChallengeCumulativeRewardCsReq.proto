@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TakeChallengeCumulativeRewardCsReq {
+  uint32 groupID = 9;
+  uint32 starCount = 14;
+}

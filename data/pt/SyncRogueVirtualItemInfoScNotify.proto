@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IJLAMBKHALF.proto";
+
+message SyncRogueVirtualItemInfoScNotify {
+  IJLAMBKHALF kKFJNGJAFCP = 8;
+}

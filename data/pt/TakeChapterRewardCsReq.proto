@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TakeChapterRewardCsReq {
+  uint32 chapterId = 1;
+  uint32 chapterRewardId = 14;
+}

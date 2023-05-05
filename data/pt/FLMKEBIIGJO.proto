@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FLMKEBIIGJO {
+  uint32 currentRaidID = 9;
+  uint32 mNKBJDKMNFI = 4;
+}

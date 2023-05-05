@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "RogueRoomStatus.proto";
+
+message EJGFGOLDOJI {
+  uint32 hiddenRoomID = 12;
+  uint32 nextRogueRoomID = 8;
+  RogueRoomStatus roomStatus = 4;
+  RogueRoomStatus hiddenRoomStatus = 14;
+  uint32 nextRogueSiteID = 6;
+}

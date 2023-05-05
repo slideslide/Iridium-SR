@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DeleteFriendCsReq {
+  uint32 uID = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SetIsDisplayAvatarInfoReq {
+  bool isDisplayAvatarList = 10;
+}

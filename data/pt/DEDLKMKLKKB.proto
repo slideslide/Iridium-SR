@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "DHNKHDLPNMN.proto";
+
+message DEDLKMKLKKB {
+  uint32 id = 1;
+  uint32 level = 2;
+  uint32 mainAffixId = 3;
+  repeated DHNKHDLPNMN eAEPHAGGCGK = 4;
+  uint32 aONODHPOAKN = 5;
+  uint32 setID = 6;
+  uint32 type = 7;
+  uint32 hJMDDELCLJC = 8;
+}

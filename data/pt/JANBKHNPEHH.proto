@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JANBKHNPEHH {
+  uint32 id = 2;
+  repeated uint32 iHFMMBDBFHN = 5;
+  uint32 _LoginDays = 11;
+}

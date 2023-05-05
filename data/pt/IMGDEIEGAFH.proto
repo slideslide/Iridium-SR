@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "Gender.proto";
+
+message IMGDEIEGAFH {
+  bool isModify = 9;
+  Gender gIAMNCOAPJG = 13;
+  string nickName = 10;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SelectInclinationTextCsReq {
+  uint32 talkSentenceID = 5;
+}

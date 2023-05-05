@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EIPIMNIEOEL.proto";
+
+message EGCBDHDCEFD {
+  oneof GPKNGDDOIMI {
+    EIPIMNIEOEL updateBuffInfo = 5;
+    uint32 deleteBuffId = 2;
+  }
+  uint32 characterID = 4;
+}

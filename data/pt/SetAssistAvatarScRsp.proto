@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SetAssistAvatarScRsp {
+  uint32 realID = 3;
+  uint32 m_value = 15;
+}

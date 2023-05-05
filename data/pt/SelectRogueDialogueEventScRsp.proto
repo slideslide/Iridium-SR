@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JILMMONIHEE.proto";
+import "ABCDBKHPCEM.proto";
+
+message SelectRogueDialogueEventScRsp {
+  uint32 eventID = 12;
+  uint32 m_value = 3;
+  JILMMONIHEE oLDHKCNGIEG = 14;
+  ABCDBKHPCEM jFCCHBHCHIK = 15;
+}

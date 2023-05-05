@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FHKDHKAGCFF.proto";
+
+message SceneEntityTeleportScRsp {
+  FHKDHKAGCFF teamLeaderEntityMotion = 13;
+  uint32 m_value = 5;
+  uint32 hOCBBLHJJNI = 8;
+}

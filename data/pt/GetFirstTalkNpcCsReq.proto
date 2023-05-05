@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GetFirstTalkNpcCsReq {
+  repeated uint32 iMKEEJOANMN = 2;
+}

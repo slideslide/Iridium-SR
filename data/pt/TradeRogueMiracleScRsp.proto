@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TradeRogueMiracleScRsp {
+  uint32 m_value = 14;
+  uint32 miracleID = 2;
+}

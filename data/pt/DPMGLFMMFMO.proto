@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LBELHJFIGOD.proto";
+import "RogueMiracleSourceType.proto";
+
+message DPMGLFMMFMO {
+  LBELHJFIGOD fBNHDAACHAG = 12;
+  repeated LBELHJFIGOD kPGOBMHGJDN = 15;
+  RogueMiracleSourceType pJFNNLLKCAC = 2;
+}

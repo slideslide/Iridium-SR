@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MEMBGLBCHIJ {
+  uint32 uID = 3;
+  uint32 type = 15;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SelectInclinationTextScRsp {
+  uint32 m_value = 1;
+  uint32 talkSentenceID = 8;
+}

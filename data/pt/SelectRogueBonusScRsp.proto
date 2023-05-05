@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IBEMHENEALJ.proto";
+
+message SelectRogueBonusScRsp {
+  uint32 m_value = 8;
+  IBEMHENEALJ jFCCHBHCHIK = 6;
+  uint32 rogueBonusID = 1;
+}

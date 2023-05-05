@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+enum CmdJukeboxType {
+  CmdJukeboxTypeNone = 0;
+  CmdTrialBackGroundMusicCsReq = 3104;
+  CmdGetJukeboxDataCsReq = 3152;
+  CmdGetJukeboxDataScRsp = 3133;
+  CmdPlayBackGroundMusicScRsp = 3197;
+  CmdUnlockBackGroundMusicCsReq = 3178;
+  CmdTrialBackGroundMusicScRsp = 3147;
+  CmdPlayBackGroundMusicCsReq = 3119;
+  CmdUnlockBackGroundMusicScRsp = 3155;
+}

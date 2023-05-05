@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TakeOffEquipmentScRsp {
+  uint32 m_value = 7;
+}

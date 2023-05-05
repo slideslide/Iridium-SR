@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message JOBHKMCCCLO {
+  float descRatioParam = 2;
+  uint32 eventID = 7;
+  bool eEOJFKELGFI = 11;
+  uint32 fHACKJOFIFI = 15;
+}

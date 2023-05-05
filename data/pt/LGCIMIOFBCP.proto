@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IJILGFPOOGO.proto";
+import "EIFGNFCLEIN.proto";
+
+message LGCIMIOFBCP {
+  repeated IJILGFPOOGO oOANAEFADHD = 12;
+  repeated EIFGNFCLEIN cNNNPNMAJLK = 14;
+  repeated uint32 eBCBMKFBOOM = 6;
+}

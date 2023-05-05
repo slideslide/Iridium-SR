@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EJGFGOLDOJI.proto";
+
+message LJIPPICDNBK {
+  uint32 rogueAreaID = 11;
+  uint32 curSiteID = 3;
+  repeated EJGFGOLDOJI bFICCGHILEA = 12;
+  uint32 curRoomID = 1;
+  uint32 mapID = 4;
+}

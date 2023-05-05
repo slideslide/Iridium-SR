@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PickRogueAvatarScRsp {
+  repeated uint32 mCJGAHCPGON = 13;
+  repeated uint32 kHGKJKJEJGF = 12;
+  uint32 m_value = 7;
+}

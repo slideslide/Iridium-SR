@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message LCPAENEMNOA {
+  uint32 id = 7;
+  uint32 planeID = 5;
+  uint32 floorID = 13;
+  bool isFullyRecover = 9;
+  uint32 entityID = 12;
+  AvatarType characterAvatarType = 14;
+}

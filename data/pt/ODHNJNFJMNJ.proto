@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+import "FMBNCLLOGPO.proto";
+import "CGAMEJLEJAN.proto";
+import "DEDLKMKLKKB.proto";
+import "HBNHOFLCEJK.proto";
+
+message ODHNJNFJMNJ {
+  AvatarType characterAvatarType = 1;
+  uint32 id = 2;
+  uint32 level = 3;
+  uint32 rank = 4;
+  uint32 index = 5;
+  repeated FMBNCLLOGPO nMDCNDKFKNO = 6;
+  repeated CGAMEJLEJAN eCJODBNEOPI = 7;
+  uint32 pEHLPPIINLH = 8;
+  uint32 xFFFFFFFF = 9;
+  uint32 promotion = 10;
+  repeated DEDLKMKLKKB cNNNPNMAJLK = 11;
+  uint32 worldLevel = 12;
+  uint32 assistUid = 13;
+  HBNHOFLCEJK fIAPCBMEBJJ = 15;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message WaypointShowNewCsNotify {
+  uint32 waypointID = 12;
+  uint32 chapterId = 14;
+}

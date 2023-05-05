@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NNLKBJPJJGN.proto";
+
+message ReforgeRogueBuffScRsp {
+  uint32 m_value = 9;
+  NNLKBJPJJGN iKAKJGCOJEB = 13;
+  NNLKBJPJJGN gCINBGLMDGM = 10;
+}

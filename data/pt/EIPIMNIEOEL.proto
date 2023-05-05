@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message EIPIMNIEOEL {
+  uint32 count = 7;
+  float iGCKPMCOIPI = 14;
+  uint32 belongAvatarID = 2;
+  uint32 buffID = 9;
+  uint32 level = 11;
+  uint64 cGGIEHHFNGD = 5;
+  map<string, float> dLBFDCMBADD = 12;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CmdLockRelicCsReq {
+  bool isLock = 9;
+  uint32 uID = 2;
+}

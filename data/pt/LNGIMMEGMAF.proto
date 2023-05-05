@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ReplayType.proto";
+
+message LNGIMMEGMAF {
+  uint32 stageID = 7;
+  uint32 m_value = 10;
+  ReplayType gNCHFMNJIIE = 8;
+  string pBOGABKBAEC = 11;
+  string pPIEAKOMAKD = 5;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message TakeAllRewardScRsp {
+  ItemList itemList = 6;
+  uint32 m_value = 2;
+}

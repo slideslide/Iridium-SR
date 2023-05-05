@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FightActivityGroup.proto";
+
+message FightActivityDataChangeScNotify {
+  map<uint32, uint32> jOKKBKJNEIA = 9;
+  repeated FightActivityGroup pFOCBIAGPEJ = 14;
+}

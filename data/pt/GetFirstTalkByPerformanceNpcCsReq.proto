@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GetFirstTalkByPerformanceNpcCsReq {
+  repeated uint32 kEAOCOHLFDK = 3;
+}

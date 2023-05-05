@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message GMOGLLOEGHB {
+  repeated uint32 oMOKHLNCKAB = 8;
+  uint32 level = 6;
+  uint32 aeonID = 13;
+  repeated uint32 hBAHJIKDABP = 12;
+  uint32 currentExp = 5;
+  uint32 maxLevel = 9;
+}

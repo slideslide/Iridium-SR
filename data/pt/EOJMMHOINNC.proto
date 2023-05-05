@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "POHNFCLILHA.proto";
+import "FJGKAOCIJAP.proto";
+
+message EOJMMHOINNC {
+  uint32 bJFMKCGHACK = 7;
+  bool isBanned = 13;
+  POHNFCLILHA _AssistAvatarDetailInfo = 1;
+  bool isDisplayAvatarList = 2;
+  uint32 _Birthday = 11;
+  string nickName = 10;
+  uint32 worldLevel = 8;
+  uint32 level = 12;
+  uint32 _HeadIconID = 15;
+  FJGKAOCIJAP pOHKGEIFKLL = 14;
+  string _Signature = 9;
+  uint32 uID = 4;
+  repeated POHNFCLILHA gAABDNLEMLD = 3;
+}

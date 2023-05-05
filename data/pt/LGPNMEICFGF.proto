@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LGPNMEICFGF {
+  uint32 mechanismBarState = 1;
+  uint32 cIOKGOKLFPG = 2;
+}

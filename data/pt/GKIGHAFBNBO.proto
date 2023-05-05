@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "Item.proto";
+
+message GKIGHAFBNBO {
+  ItemList itemList12 = 12;
+  ItemList itemList = 8;
+  Item itemId_ = 9;
+  bool isNew = 3;
+}

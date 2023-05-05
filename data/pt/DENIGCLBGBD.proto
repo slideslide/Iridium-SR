@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DENIGCLBGBD {
+  uint32 mapID = 14;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ChatType.proto";
+import "MsgType.proto";
+
+message MsgCsReq {
+  string lHBIMFJBPOL = 15;
+  ChatType jJFGABDPKCJ = 9;
+  repeated uint32 aMDKNPLJNPP = 11;
+  MsgType dLKLPLBGPGL = 3;
+}

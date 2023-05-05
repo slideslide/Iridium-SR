@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message JFODNACIOCP {
+  bool eNAMOEHEHPG = 1;
+  string dOAKDPFBCGI = 10;
+  string kKCIPHMLIBD = 8;
+  int64 endTimeStamp = 15;
+  uint32 bDBPCJNHAJH = 6;
+  uint32 nDGLLOJJLAM = 3;
+  int64 beginTimeStamp = 9;
+  uint32 nPPBCCBKGJN = 14;
+  string bKMHJGICPIJ = 7;
+}

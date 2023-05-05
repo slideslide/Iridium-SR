@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "RogueStatus.proto";
+
+message SyncRogueStatusScNotify {
+  RogueStatus _Status = 11;
+  bool lEMBNKJPNED = 7;
+}

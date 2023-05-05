@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IMLOGEMOJMI.proto";
+import "ItemList.proto";
+
+message TakeRogueScoreRewardScRsp {
+  IMLOGEMOJMI nFLBEKLNCEJ = 12;
+  ItemList itemList = 6;
+  uint32 poolID = 2;
+  uint32 m_value = 5;
+}

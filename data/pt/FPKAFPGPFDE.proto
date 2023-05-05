@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+import "KJECOKCPPGC.proto";
+import "FMBNCLLOGPO.proto";
+import "COFLGNMLKHD.proto";
+import "MNNMMMJHGMJ.proto";
+import "BBADLGABHJL.proto";
+import "JKLFIOEJKEI.proto";
+import "DEDLKMKLKKB.proto";
+import "KOAAJIDBDAJ.proto";
+
+message FPKAFPGPFDE {
+  AvatarType characterAvatarType = 1;
+  uint32 id = 2;
+  uint32 characterLevel = 3;
+  uint32 characterRank = 4;
+  uint32 characterPromotion = 5;
+  KJECOKCPPGC mPHCAJCNCHK = 6;
+  repeated FMBNCLLOGPO gNHGIMJELPP = 7;
+  repeated COFLGNMLKHD mPFOOAOPCFN = 8;
+  uint32 _items = 9;
+  double eJMIOGABLEM = 10;
+  double gAALGCGPLGM = 11;
+  double iMKIADENFNA = 12;
+  double nAJHHLMMOAD = 13;
+  double pOMJJEENKBA = 14;
+  uint32 stageID = 15;
+  uint32 aNOFOKHLNKG = 16;
+  double iJLAAFAJBDF = 17;
+  repeated MNNMMMJHGMJ nIBOIKDINKH = 18;
+  repeated MNNMMMJHGMJ eJDAFGMAAIB = 19;
+  repeated MNNMMMJHGMJ dBLKINGNHAJ = 20;
+  repeated BBADLGABHJL oABPMHKGDAM = 21;
+  double iADNOLMNLKD = 22;
+  uint32 fixPoint = 23;
+  repeated JKLFIOEJKEI mOPBKGLBACH = 24;
+  uint32 gJAOHCGNKBJ = 25;
+  uint32 mEMLBBHDFIB = 26;
+  uint32 bDOLKCABDPM = 27;
+  uint32 aELDGJJLEBF = 28;
+  uint32 bNJMEGIIOHI = 29;
+  double hGKAJPIHLJM = 30;
+  double hLNIIFABAEJ = 31;
+  double lIDDPPLMNKO = 32;
+  KJECOKCPPGC iIGBKJJGACN = 33;
+  repeated DEDLKMKLKKB dNGBKNJPIGJ = 34;
+  uint32 assistUid = 35;
+  repeated MNNMMMJHGMJ bKCCNBBNEFM = 36;
+  double mFPKMHEIGHJ = 37;
+  double bANBOPNGFNE = 38;
+  double cIOGOJLDLMI = 39;
+  double iJPPAJCAICK = 40;
+  repeated KOAAJIDBDAJ fJBCKCPHPOO = 41;
+}

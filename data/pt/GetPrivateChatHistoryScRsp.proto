@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ChatMessageData.proto";
+
+message GetPrivateChatHistoryScRsp {
+  uint32 pageIndex = 5;
+  uint32 m_value = 2;
+  uint32 contactID = 1;
+  repeated ChatMessageData eEOINJJBPEO = 11;
+}

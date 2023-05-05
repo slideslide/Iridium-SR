@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IBGNDFBIAHK {
+  uint32 shareID = 15;
+  uint32 oFGEDDELEPO = 7;
+}

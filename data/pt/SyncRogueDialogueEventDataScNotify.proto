@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JILMMONIHEE.proto";
+
+message SyncRogueDialogueEventDataScNotify {
+  repeated JILMMONIHEE pNIGHCAGCAG = 3;
+}

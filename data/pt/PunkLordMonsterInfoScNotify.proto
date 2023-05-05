@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PunkLordBattleRecord.proto";
+import "PunkLordMonsterInfoNotifyReason.proto";
+import "BPNBPBKOAKJ.proto";
+
+message PunkLordMonsterInfoScNotify {
+  PunkLordBattleRecord punkLordBattleRecord = 10;
+  PunkLordMonsterInfoNotifyReason oDCPJEPBKIF = 15;
+  BPNBPBKOAKJ bGONHENALMD = 7;
+  repeated uint32 cGMCMDJMKCK = 6;
+}

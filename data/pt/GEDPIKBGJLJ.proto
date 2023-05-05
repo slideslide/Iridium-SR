@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message GEDPIKBGJLJ {
+  uint32 nextRogueRoomID = 13;
+  uint32 nCCLHDJDGFJ = 4;
+  uint32 jGFMMAGHPDH = 15;
+  uint32 nextRogueSiteID = 11;
+}

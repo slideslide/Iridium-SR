@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MessageSectionStatus.proto";
+
+message JHDLLGOFAKG {
+  MessageSectionStatus nKLELMNBPMC = 9;
+  uint32 sectionID = 11;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MissionGroupWarnScNotify {
+  repeated uint32 lLCGKDACMHI = 10;
+}

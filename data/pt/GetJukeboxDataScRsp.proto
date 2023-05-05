@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BNJPOBDKEJK.proto";
+
+message GetJukeboxDataScRsp {
+  repeated BNJPOBDKEJK lODPNINHNFI = 15;
+  uint32 m_value = 14;
+  uint32 oCJAELCKKMP = 8;
+}

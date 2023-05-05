@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TrainVisitorBehaviorFinishCsReq {
+  uint32 visitorID = 12;
+}

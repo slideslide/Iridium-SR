@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SwapRogueBuffCsReq {
+  uint32 swapBuffID = 9;
+}

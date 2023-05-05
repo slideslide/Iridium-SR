@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum HJACBHJBNMB {
+  HJACBHJBNMB_None = 0;
+  HJACBHJBNMB_RogueInfo = 6;
+}

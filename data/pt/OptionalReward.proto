@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OptionalReward {
+  uint32 level = 10;
+  uint32 optionalRewardId = 13;
+}

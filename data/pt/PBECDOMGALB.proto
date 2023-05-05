@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DHNKHDLPNMN.proto";
+
+message PBECDOMGALB {
+  uint32 currentExp = 4;
+  uint32 mainAffixId = 11;
+  uint32 level = 13;
+  uint32 type = 15;
+  uint32 mJFFFJOEPKJ = 5;
+  repeated DHNKHDLPNMN eAEPHAGGCGK = 2;
+}

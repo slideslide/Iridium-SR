@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "BOGGPAELPEP.proto";
+
+message EnterFightActivityStageScRsp {
+  uint32 m_value = 11;
+  BOGGPAELPEP mEGJDKGGEOJ = 12;
+  uint32 difficultyLevel = 14;
+  uint32 groupID = 1;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "ExtraLineupType.proto";
+import "CAMGFLIKEMF.proto";
+
+message JJLEMHDOJLB {
+  uint32 planeID = 8;
+  bool _IsVirtual = 11;
+  ExtraLineupType lineupType = 1;
+  uint32 leaderSlot = 3;
+  repeated CAMGFLIKEMF oGHIMEHJPHC = 6;
+  uint32 index = 10;
+}

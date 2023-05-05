@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SyncAcceptedPamMissionNotify {
+  uint32 missionID = 15;
+  uint64 dHPGNKLPEMJ = 4;
+}

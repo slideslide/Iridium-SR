@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BOGGPAELPEP.proto";
+
+message EnterTrialActivityStageScRsp {
+  uint32 m_value = 7;
+  BOGGPAELPEP mEGJDKGGEOJ = 4;
+}
