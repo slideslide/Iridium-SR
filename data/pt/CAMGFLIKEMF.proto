@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message CAMGFLIKEMF {
+  uint32 id = 11;
+  uint32 slot = 14;
+  AvatarType characterAvatarType = 5;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MALFIANNJGP.proto";
+
+message CLAKKKJMDKL {
+  uint32 m_value = 1;
+  MALFIANNJGP aOPFPAGECJA = 13;
+}

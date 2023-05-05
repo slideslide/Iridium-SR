@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BODJKHOJCMB {
+  uint32 m_value = 1;
+}

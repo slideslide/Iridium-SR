@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AcceptedPamMissionExpireCsReq {
+  uint32 missionID = 8;
+}

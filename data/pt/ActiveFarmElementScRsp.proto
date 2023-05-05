@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ActiveFarmElementScRsp {
+  uint32 worldLevel = 14;
+  uint32 m_value = 6;
+  uint32 characterID = 7;
+}

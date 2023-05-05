@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AcceptedPamMissionExpireScRsp {
+  uint32 m_value = 9;
+  uint32 missionID = 7;
+}

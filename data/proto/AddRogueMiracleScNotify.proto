@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "RogueMiracleSourceType.proto";
-import "LBELHJFIGOD.proto";
-
-message AddRogueMiracleScNotify {
-  RogueMiracleSourceType pJFNNLLKCAC = 7;
-  LBELHJFIGOD fBNHDAACHAG = 12;
-}

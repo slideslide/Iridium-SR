@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message BNJPOBDKEJK {
-  uint32 id = 9;
-  bool pHPHGLHAAMH = 6;
-  uint32 groupID = 10;
-}

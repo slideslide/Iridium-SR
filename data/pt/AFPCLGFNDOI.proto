@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AFDEMBPOOJF.proto";
+
+message AFPCLGFNDOI {
+  uint32 m_value = 14;
+  repeated AFDEMBPOOJF hOMMMLIDGJO = 1;
+}

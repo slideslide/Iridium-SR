@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AAIBPJCPOIL {
+  uint32 version = 1;
+  int64 time = 2;
+  bytes byteString = 3;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message BuyGoodsScRsp {
+  uint32 goodsId = 2;
+  uint32 goodsBuyTimes = 3;
+  uint32 shopId = 8;
+  ItemList returnItemList = 6;
+  uint32 retcode = 12;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message BEPIDFNIMLN {
+  string nickName = 1;
+  uint32 level = 2;
+  uint32 currentExp = 3;
+  uint32 stamina = 4;
+  uint32 mCoin = 5;
+  uint32 hCoin = 6;
+  uint32 sCoin = 7;
+  uint32 worldLevel = 8;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MsgType.proto";
+
+message ChatMessageData {
+  MsgType dLKLPLBGPGL = 3;
+  uint32 mBGHAJOKLBA = 15;
+  string lHBIMFJBPOL = 4;
+  uint64 createdTimeStamp = 13;
+}

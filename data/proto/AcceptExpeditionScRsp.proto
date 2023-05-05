@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EJBHMNPFFCD.proto";
-
-message AcceptExpeditionScRsp {
-  EJBHMNPFFCD expedition = 7;
-  uint32 m_value = 10;
-}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MapInfoChestType.proto";
+
+message CIIKGLCKHDC {
+  uint32 jGBFGDLPPEI = 7;
+  MapInfoChestType hFOGKPKHMMN = 5;
+  uint32 oDCIFDNLHNI = 10;
+}

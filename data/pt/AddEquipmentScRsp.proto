@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AddEquipmentScRsp {
+  uint32 lHNNHIIHNFH = 3;
+}

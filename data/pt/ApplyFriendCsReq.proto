@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FriendApplySource.proto";
+
+message ApplyFriendCsReq {
+  uint32 uID = 15;
+  FriendApplySource pJFNNLLKCAC = 7;
+}

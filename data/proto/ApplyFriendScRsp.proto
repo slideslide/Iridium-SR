@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ApplyFriendScRsp {
-  uint32 m_value = 9;
-  uint32 uID = 5;
-}

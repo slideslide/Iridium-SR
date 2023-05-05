@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ACJIHCAGECG {
+  uint32 gFMMCMPHGFF = 7;
+  uint32 m_value = 6;
+}

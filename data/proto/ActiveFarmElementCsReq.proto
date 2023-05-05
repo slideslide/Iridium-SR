@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ActiveFarmElementCsReq {
-  uint32 characterID = 8;
-  uint32 worldLevel = 12;
-}

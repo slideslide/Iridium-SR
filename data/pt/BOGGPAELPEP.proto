@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import "DBJMKOPCJCK.proto";
+import "OFGKMMMDLMO.proto";
+import "ODHNJNFJMNJ.proto";
+import "LGPNMEICFGF.proto";
+import "GCJJDMGALCH.proto";
+import "DIDDMMAKIMJ.proto";
+
+message BOGGPAELPEP {
+  uint32 battleID = 13;
+  uint32 worldLevel = 5;
+  uint32 stageID = 9;
+  repeated DBJMKOPCJCK bKPHHMEHHND = 8;
+  repeated OFGKMMMDLMO dAIKBEDKMMA = 1;
+  repeated ODHNJNFJMNJ fNADMJAAMPN = 7;
+  repeated uint32 eLDJMLPGDPE = 3;
+  LGPNMEICFGF mODCJIGEGLE = 11;
+  uint32 roundsLimit = 12;
+  uint32 seed = 4;
+  repeated GCJJDMGALCH hABFDMCCFFI = 14;
+  repeated DIDDMMAKIMJ eJHEFPLBAHK = 2;
+}
