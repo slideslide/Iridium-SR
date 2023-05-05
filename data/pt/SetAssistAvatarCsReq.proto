@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SetAssistAvatarCsReq {
-  uint32 realID = 1;
-}

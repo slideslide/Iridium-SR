@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DressRelicAvatarScRsp {
-  uint32 m_value = 14;
-}

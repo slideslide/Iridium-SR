@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message OEIFMALECJD {
-  repeated uint32 dMLLGNPMFPE = 4;
-  uint32 worldLevel = 14;
-  uint32 currentRaidID = 8;
-}

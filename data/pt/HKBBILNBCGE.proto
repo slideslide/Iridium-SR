@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HKBBILNBCGE {
-  uint32 iDAFFOJCNGK = 11;
-  uint32 itemID = 12;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum InfoOneofCase {
-  InfoOneofCase_None = 0;
-  InfoOneofCase_RogueInfo = 11;
-  InfoOneofCase_AeonInfo = 7;
-}

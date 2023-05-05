@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SceneCheckpointLastRefreshNotify {
-  int64 kCJKFJAKLHO = 3;
-}

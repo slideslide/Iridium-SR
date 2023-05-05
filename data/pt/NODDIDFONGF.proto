@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "RaidTargetStatus.proto";
-
-message NODDIDFONGF {
-  RaidTargetStatus mGCODGCPPBL = 13;
-  uint32 iMNKJLFMMFK = 3;
-  uint32 eHMJAAPMGNA = 2;
-}

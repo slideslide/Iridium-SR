@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ELPGIDAHODM.proto";
-
-message CharacterDataComponent {
-  uint32 nDFBPHAAFEN = 1;
-  uint32 monsterID = 2;
-  repeated ELPGIDAHODM cMBOLLDGDMP = 3;
-}

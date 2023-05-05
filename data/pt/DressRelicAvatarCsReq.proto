@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MEMBGLBCHIJ.proto";
-
-message DressRelicAvatarCsReq {
-  uint32 belongAvatarID = 7;
-  repeated MEMBGLBCHIJ dBFPPHMNFFI = 11;
-}

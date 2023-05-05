@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EIPIMNIEOEL.proto";
-
-message ECDCPLDNNFF {
-  uint32 characterID = 15;
-  repeated EIPIMNIEOEL dAIKBEDKMMA = 11;
-}

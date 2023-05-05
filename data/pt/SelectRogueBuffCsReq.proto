@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SelectRogueBuffCsReq {
-  uint32 _BuffID = 10;
-}

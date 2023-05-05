@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SetSignatureScRsp {
-  uint32 m_value = 7;
-  string _Signature = 11;
-}

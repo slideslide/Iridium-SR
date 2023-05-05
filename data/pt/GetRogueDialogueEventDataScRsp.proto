@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JILMMONIHEE.proto";
-
-message GetRogueDialogueEventDataScRsp {
-  repeated JILMMONIHEE pNIGHCAGCAG = 14;
-  uint32 m_value = 9;
-}

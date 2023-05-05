@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "GLPCIOANLEK.proto";
-
-message SyncRogueMiracleInfoScNotify {
-  GLPCIOANLEK jGBEAFDPELD = 2;
-}

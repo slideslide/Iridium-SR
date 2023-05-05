@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "Tutorial.proto";
-
-message GetTutorialScRsp {
-  repeated Tutorial tutorialList = 1;
-  uint32 retcode = 7;
-}

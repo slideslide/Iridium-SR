@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "GLPCIOANLEK.proto";
-
-message SelectRogueMiracleScRsp {
-  GLPCIOANLEK jGBEAFDPELD = 8;
-  uint32 m_value = 15;
-}

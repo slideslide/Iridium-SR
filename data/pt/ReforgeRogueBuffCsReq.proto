@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ReforgeRogueBuffCsReq {
-  uint32 addBuffID = 12;
-  uint32 discardBuffID = 13;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HCFBMEBDAEG.proto";
-
-message GetCurSceneInfoScRsp {
-  uint32 m_value = 3;
-  HCFBMEBDAEG _SceneInfo = 12;
-}

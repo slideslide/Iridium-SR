@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HNOMJODNGFA.proto";
-
-message GECHBCOPCAB {
-  bool kMOIIIEDJME = 2;
-  HNOMJODNGFA fKABGAJEENM = 11;
-}

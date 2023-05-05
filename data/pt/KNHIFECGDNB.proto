@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message KNHIFECGDNB {
-  uint32 fJLHBJOOIDD = 5;
-  uint32 _CurrentProgress = 8;
-}

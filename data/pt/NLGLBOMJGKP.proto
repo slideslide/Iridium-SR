@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message NLGLBOMJGKP {
-  uint32 promotion = 7;
-  uint32 rank = 14;
-  uint32 currentExp = 11;
-  uint32 level = 2;
-  uint32 mJFFFJOEPKJ = 3;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "SyncReason.proto";
-import "LLNCPDNOJJL.proto";
-
-message SyncLineupNotify {
-  repeated SyncReason reasonList = 13;
-  LLNCPDNOJJL lineup = 15;
-}

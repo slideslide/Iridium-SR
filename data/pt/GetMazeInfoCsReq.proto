@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GetMazeInfoCsReq {
-  uint32 curMapEntryID = 2;
-}

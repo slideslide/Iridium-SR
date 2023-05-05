@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message AFMBNGFGPEM {
-  uint32 m_value = 7;
-  bool dMJHEAKCGOG = 10;
-}

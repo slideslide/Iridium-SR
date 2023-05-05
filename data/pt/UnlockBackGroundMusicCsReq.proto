@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message UnlockBackGroundMusicCsReq {
-  repeated uint32 kFEDGCFAFMN = 14;
-}

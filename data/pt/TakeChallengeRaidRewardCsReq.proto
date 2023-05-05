@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TakeChallengeRaidRewardCsReq {
-  uint32 rewardID = 4;
-}

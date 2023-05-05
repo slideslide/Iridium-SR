@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "FIBJAHGDDHO.proto";
-
-message GetRogueInfoScRsp {
-  FIBJAHGDDHO aDLNFBKJIAI = 2;
-  uint32 m_value = 8;
-}

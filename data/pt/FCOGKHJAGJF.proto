@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message FCOGKHJAGJF {
-  uint32 monsterWave = 2;
-  uint32 worldLevel = 7;
-  uint32 entityID = 13;
-  uint32 cocoonID = 15;
-}

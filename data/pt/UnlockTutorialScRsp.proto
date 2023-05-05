@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "Tutorial.proto";
-
-message UnlockTutorialScRsp {
-  uint32 retcode = 9;
-  Tutorial tutorial = 3;
-}

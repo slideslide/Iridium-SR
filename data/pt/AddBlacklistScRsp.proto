@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HNOMJODNGFA.proto";
-
-message AddBlacklistScRsp {
-  HNOMJODNGFA kKLKFLHMIII = 6;
-  uint32 m_value = 4;
-}

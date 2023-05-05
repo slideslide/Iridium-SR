@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HEDPKIDODNN {
-  string cGBMDIEFFLD = 5;
-  uint32 groupID = 13;
-}

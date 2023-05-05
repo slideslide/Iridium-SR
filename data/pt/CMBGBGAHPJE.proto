@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message CMBGBGAHPJE {
-  uint32 groupID = 1;
-  uint64 kEOGGJBOJPC = 7;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakePunkLordPointRewardCsReq {
-  uint32 level = 4;
-  bool isOverBonusReward = 14;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message PDOONKGBGKO {
-  repeated uint32 nLDDFJCAHIA = 13;
-  uint32 currentRaidID = 1;
-  uint32 isSave = 11;
-  uint32 worldLevel = 4;
-  uint32 entityID = 6;
-}

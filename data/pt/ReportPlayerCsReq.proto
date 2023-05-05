@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message ReportPlayerCsReq {
-  uint32 type = 10;
-  uint32 uID = 2;
-  string jGOPFKMBDPP = 12;
-}

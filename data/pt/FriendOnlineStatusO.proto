@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum FriendOnlineStatusO {
-  FRIEND_ONLINE_STATUS_OFFLINE = 0;
-  FRIEND_ONLINE_STATUS_ONLINE = 1;
-}

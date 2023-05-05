@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message RegionStopScNotify {
-  int64 stopBeginTime = 7;
-  int64 stopEndTime = 1;
-}

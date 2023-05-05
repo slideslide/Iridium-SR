@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JANBKHNPEHH.proto";
-
-message GetLoginActivityScRsp {
-  repeated JANBKHNPEHH pGNLLIBDDBG = 4;
-  uint32 m_value = 5;
-}

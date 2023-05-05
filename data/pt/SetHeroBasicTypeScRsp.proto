@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HeroBasicType.proto";
-
-message SetHeroBasicTypeScRsp {
-  uint32 m_value = 10;
-  HeroBasicType jCIKMHKIOIM = 2;
-}

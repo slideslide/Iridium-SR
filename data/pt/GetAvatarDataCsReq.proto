@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GetAvatarDataCsReq {
-  repeated uint32 mCJGAHCPGON = 3;
-  bool isGetAll = 7;
-}

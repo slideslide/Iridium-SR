@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message GetLevelRewardScRcp {
-  uint32 level = 3;
-  uint32 m_value = 7;
-  ItemList itemList = 5;
-}

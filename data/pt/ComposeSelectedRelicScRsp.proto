@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message ComposeSelectedRelicScRsp {
-  ItemList itemList = 14;
-  uint32 compose_id = 5;
-  uint32 m_value = 4;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message MissionEventRewardScNotify {
-  uint32 fJLHBJOOIDD = 11;
-  ItemList itemList = 13;
-}

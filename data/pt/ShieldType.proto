@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum ShieldType {
-  SHIELD_TYPE_NONE = 0;
-  SHIELD_TYPE_REPLACE = 1;
-  SHIELD_TYPE_SHIED = 2;
-}

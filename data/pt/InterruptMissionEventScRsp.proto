@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message InterruptMissionEventScRsp {
-  uint32 fJLHBJOOIDD = 15;
-  uint32 m_value = 12;
-}

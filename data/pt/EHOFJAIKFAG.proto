@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message EHOFJAIKFAG {
-  uint32 m_value = 3;
-}

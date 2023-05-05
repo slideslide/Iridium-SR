@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GiveUpBoxingClubChallengeCsReq {
-  bool isGiveUp = 1;
-  uint32 challengeID = 15;
-}

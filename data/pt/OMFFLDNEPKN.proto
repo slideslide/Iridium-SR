@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "EONDCKEHLGE.proto";
-
-message OMFFLDNEPKN {
-  repeated EONDCKEHLGE hHPECGBEEDE = 12;
-  uint32 m_value = 4;
-  uint32 gFMMCMPHGFF = 11;
-}

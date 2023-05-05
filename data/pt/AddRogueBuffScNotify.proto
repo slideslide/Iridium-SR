@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NNLKBJPJJGN.proto";
-import "RogueBuffSourceType.proto";
-
-message AddRogueBuffScNotify {
-  NNLKBJPJJGN aJPCCNKJLDH = 14;
-  RogueBuffSourceType pJFNNLLKCAC = 12;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KFMNJLIONDG.proto";
-
-message FinishStoryMissionCsReq {
-  string pJENMGMBNBB = 3;
-  repeated KFMNJLIONDG mPEGNAJLGOP = 9;
-  uint32 subMissionID = 13;
-}

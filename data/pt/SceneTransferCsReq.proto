@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message SceneTransferCsReq {
-  uint32 planeID = 3;
-  uint32 floorID = 4;
-  uint32 entityID = 13;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message LockEquipmentScRsp {
-  uint32 m_value = 14;
-  uint32 equipmentUID = 13;
-}

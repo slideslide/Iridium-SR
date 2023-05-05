@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message BuyGoodsCsReq {
-  uint32 curVerifyServerEntityID = 10;
-  uint32 aOFLNIFHGCN = 4;
-  uint32 goodsID = 11;
-  uint32 shopID = 3;
-  uint32 itemID = 9;
-}

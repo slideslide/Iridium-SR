@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakeFightActivityRewardCsReq {
-  uint32 difficultyLevel = 2;
-  uint32 groupID = 4;
-}

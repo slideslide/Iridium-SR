@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message KMGFFMCMPFD {
-  uint32 m_value = 12;
-}

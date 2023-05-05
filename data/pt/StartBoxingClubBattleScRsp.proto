@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BOGGPAELPEP.proto";
-
-message StartBoxingClubBattleScRsp {
-  uint32 challengeID = 11;
-  uint32 m_value = 2;
-  BOGGPAELPEP mEGJDKGGEOJ = 15;
-}

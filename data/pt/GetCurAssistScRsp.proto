@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OHJGCNJBOOC.proto";
-
-message GetCurAssistScRsp {
-  OHJGCNJBOOC dCJLABAGHPC = 12;
-  uint32 m_value = 4;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "DGCEABIBIMM.proto";
-
-message GetQuestRecordScRsp {
-  uint32 m_value = 2;
-  repeated DGCEABIBIMM eEPOBCJIEKI = 6;
-}

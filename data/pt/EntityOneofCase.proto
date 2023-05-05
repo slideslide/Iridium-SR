@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum EntityOneofCase {
-  EntityOneofCase_None = 0;
-  EntityOneofCase_Actor = 6;
-  EntityOneofCase_NpcMonster = 9;
-  EntityOneofCase_Npc = 8;
-  EntityOneofCase_Prop = 2;
-}

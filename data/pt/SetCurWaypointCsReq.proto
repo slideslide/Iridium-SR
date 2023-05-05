@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SetCurWaypointCsReq {
-  uint32 waypointID = 4;
-}

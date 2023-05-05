@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SelectRogueDialogueEventCsReq {
-  uint32 eventID = 1;
-  uint32 curVerifyServerEntityID = 2;
-}

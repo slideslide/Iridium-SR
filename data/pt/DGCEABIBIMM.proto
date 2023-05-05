@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message DGCEABIBIMM {
-  uint32 eKIIJCMLLNK = 14;
-  uint32 _CurrentProgress = 9;
-}

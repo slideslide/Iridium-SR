@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SwitchLineupIndexScRsp {
-  uint32 m_value = 7;
-  uint32 index = 15;
-}

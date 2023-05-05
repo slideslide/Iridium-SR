@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message NEOAFADGBKD {
-  uint32 m_value = 11;
-  uint32 subMissionID = 5;
-}

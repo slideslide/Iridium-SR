@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MissionData.proto";
-
-message JEINMHHLFMM {
-  repeated MissionData jGMCPPMKOCN = 14;
-  repeated uint32 oKMFBKFINMB = 15;
-  repeated uint32 mFFNEIDPFIK = 7;
-}

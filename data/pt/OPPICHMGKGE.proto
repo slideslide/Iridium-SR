@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message OPPICHMGKGE {
-  uint32 uID = 1;
-  uint32 monsterID = 2;
-}

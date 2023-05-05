@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OEFEOGHDJIO.proto";
-
-message TeleportToMissionResetPointScRsp {
-  uint32 hOCBBLHJJNI = 13;
-  uint32 m_value = 15;
-  OEFEOGHDJIO hMKLFKCMLNL = 9;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "RogueBuffSourceType.proto";
-import "NNLKBJPJJGN.proto";
-
-message RemoveRogueBuffScNotify {
-  RogueBuffSourceType pJFNNLLKCAC = 14;
-  NNLKBJPJJGN aJPCCNKJLDH = 1;
-}

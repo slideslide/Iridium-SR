@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "Language.proto";
-
-message SetLanguageReq {
-  Language curLanguageType = 9;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message LCKHHGLIKOI {
-  uint32 realID = 8;
-  uint32 oNOEPJLAFJC = 13;
-}

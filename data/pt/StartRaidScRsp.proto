@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message StartRaidScRsp {
-  uint32 m_value = 14;
-}

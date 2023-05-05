@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "BHBFJOLPJAC.proto";
-
-message GetRogueTalentInfoScRsp {
-  BHBFJOLPJAC jGFIDAMCDOJ = 9;
-  uint32 m_value = 8;
-}

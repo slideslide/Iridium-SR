@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "AHBGEPBBAFC.proto";
-
-message ComposeLimitNumCompleteScNotify {
-  repeated AHBGEPBBAFC aLJENIMIBKG = 3;
-}

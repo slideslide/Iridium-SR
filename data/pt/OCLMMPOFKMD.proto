@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message OCLMMPOFKMD {
-  uint32 visitorID = 8;
-  bool aCGJHGEMGPD = 9;
-}

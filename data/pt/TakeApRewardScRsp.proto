@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TakeApRewardScRsp {
-  uint32 level = 13;
-  uint32 m_value = 9;
-  ItemList itemList = 8;
-}

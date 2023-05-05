@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MODMGOPBHIM.proto";
-
-message GetAvatarDataScRsp {
-  uint32 m_value = 7;
-  bool aPEAJOEOKGB = 11;
-  repeated MODMGOPBHIM nLDDFJCAHIA = 8;
-}

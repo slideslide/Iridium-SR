@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IMLOGEMOJMI.proto";
-
-message GetRogueInitialScoreScRsp {
-  uint32 m_value = 11;
-  IMLOGEMOJMI nFLBEKLNCEJ = 6;
-}

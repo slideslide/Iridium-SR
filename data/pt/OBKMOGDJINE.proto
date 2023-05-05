@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message OBKMOGDJINE {
-  uint32 m_value = 10;
-  uint32 id = 6;
-}

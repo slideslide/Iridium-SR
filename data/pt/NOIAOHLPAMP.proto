@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PFPLNKCLLBK.proto";
-
-message NOIAOHLPAMP {
-  uint32 pDPHPEDINKE = 4;
-  repeated PFPLNKCLLBK eOEKLOHKBPJ = 10;
-}

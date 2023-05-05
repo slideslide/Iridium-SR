@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message ReviveRogueAvatarCsReq {
-  uint32 belongAvatarID = 10;
-  repeated uint32 kHGKJKJEJGF = 8;
-  repeated uint32 mCJGAHCPGON = 12;
-  uint32 curVerifyServerEntityID = 6;
-}

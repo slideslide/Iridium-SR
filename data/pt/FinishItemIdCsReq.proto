@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FinishItemIdCsReq {
-  uint32 iDAFFOJCNGK = 13;
-  uint32 itemID = 14;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum JJBLNBGGOMM {
-  JJBLNBGGOMM_None = 0;
-  JJBLNBGGOMM_ItemResult = 4;
-  JJBLNBGGOMM_BuffResult = 3;
-}

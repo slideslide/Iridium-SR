@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message OpenRogueChestCsReq {
-  uint32 curVerifyServerEntityID = 9;
-  bool useStamina = 5;
-}

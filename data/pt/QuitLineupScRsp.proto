@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message QuitLineupScRsp {
-  uint32 m_value = 11;
-  uint32 belongAvatarID = 1;
-  bool lMBMMCAJHMH = 4;
-  uint32 planeID = 3;
-  bool _IsVirtual = 8;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BpRewardType.proto";
-
-message TakeBpRewardCsReq {
-  BpRewardType type = 15;
-  uint32 level = 3;
-  uint32 optionalRewardID = 9;
-}

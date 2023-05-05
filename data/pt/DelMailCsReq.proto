@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DelMailCsReq {
-  repeated uint32 pLGHDGJDPIH = 6;
-}

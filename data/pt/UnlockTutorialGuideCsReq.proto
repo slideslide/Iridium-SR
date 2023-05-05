@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message UnlockTutorialGuideCsReq {
-  uint32 groupID = 12;
-}

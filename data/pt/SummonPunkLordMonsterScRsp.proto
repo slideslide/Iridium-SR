@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PKBBKMPFMLP.proto";
-
-message SummonPunkLordMonsterScRsp {
-  uint32 m_value = 14;
-  PKBBKMPFMLP iEPLHBNNEAA = 7;
-}

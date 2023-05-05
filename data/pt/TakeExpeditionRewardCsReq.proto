@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TakeExpeditionRewardCsReq {
-  uint32 expeditionID = 8;
-}

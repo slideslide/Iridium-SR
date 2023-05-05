@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message OCPPOFCBOEI {
-  bool bLCFPAKBBBN = 1;
-  uint32 hLNKOIEOOKG = 2;
-  bool aDDLLCKJOIB = 3;
-  string cDBEMMBJNLF = 4;
-  bool hOPJILDKDKD = 5;
-}

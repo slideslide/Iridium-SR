@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NPLFPMKFPMD.proto";
-
-message GetTalkEventRewardCsReq {
-  uint32 talkEventID = 1;
-  NPLFPMKFPMD mFODPIBCHEB = 2;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakeOffRelicCsReq {
-  uint32 belongAvatarID = 4;
-  repeated uint32 aPIAOOHAOKB = 12;
-}

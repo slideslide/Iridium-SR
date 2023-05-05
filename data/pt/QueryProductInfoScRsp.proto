@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "DPKDKGCCPEK.proto";
-
-message QueryProductInfoScRsp {
-  uint64 dJILMJDCMCJ = 15;
-  uint32 m_value = 4;
-  repeated DPKDKGCCPEK cEBAOIPMNIM = 1;
-}

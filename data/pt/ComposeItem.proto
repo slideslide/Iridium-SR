@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message ComposeItem {
-  MPANFNCCGPC eEBGJIBEFMH = 9;
-  uint32 count = 1;
-  uint32 compose_id = 5;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message SetFriendRemarkNameScRsp {
-  string remarkName = 3;
-  uint32 uID = 8;
-  uint32 m_value = 1;
-}

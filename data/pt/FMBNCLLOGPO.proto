@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FMBNCLLOGPO {
-  uint32 pointID = 1;
-  uint32 level = 2;
-}

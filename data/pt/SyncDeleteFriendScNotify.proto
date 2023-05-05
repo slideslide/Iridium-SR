@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SyncDeleteFriendScNotify {
-  uint32 uID = 14;
-}

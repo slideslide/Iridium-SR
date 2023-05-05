@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TrialBackGroundMusicScRsp {
-  uint32 musicID = 1;
-  uint32 m_value = 12;
-}

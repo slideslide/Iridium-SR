@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message PunkLordDataChangeNotify {
-  uint32 nIABOEBEFNK = 14;
-  uint32 hEEHIODHMFO = 4;
-  uint32 pFBAAIKJHAK = 10;
-}

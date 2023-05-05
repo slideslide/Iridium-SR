@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TakeTrialActivityRewardCsReq {
-  uint32 stageID = 5;
-}

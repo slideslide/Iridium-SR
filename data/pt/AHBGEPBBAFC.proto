@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message AHBGEPBBAFC {
-  uint32 lIDIFCEIGIF = 1;
-  uint32 cFFJFPHFLFF = 7;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakeChallengeTargetRewardCsReq {
-  uint32 challengeID = 13;
-  repeated uint32 nFAPABCFHKB = 14;
-}

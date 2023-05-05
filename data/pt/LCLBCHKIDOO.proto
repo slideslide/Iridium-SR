@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message LCLBCHKIDOO {
-  uint32 kFJCHCCKFBB = 10;
-}

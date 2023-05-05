@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message FinishSectionIdScRsp {
-  uint32 sectionID = 5;
-  uint32 m_value = 7;
-  ItemList itemList = 12;
-}

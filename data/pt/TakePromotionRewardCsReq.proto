@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakePromotionRewardCsReq {
-  uint32 promotion = 6;
-  uint32 belongAvatarID = 4;
-}

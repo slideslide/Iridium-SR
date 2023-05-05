@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OHJGCNJBOOC.proto";
-
-message GetAssistListScRsp {
-  uint32 m_value = 15;
-  repeated OHJGCNJBOOC jBNENJGHMMM = 10;
-}

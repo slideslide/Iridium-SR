@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "CacheNotifyType.proto";
-
-message CancelSyncExpiredItemCsReq {
-  CacheNotifyType type = 3;
-  repeated uint32 gMDEIDAMIAI = 15;
-  repeated string kMBGMCKDDIC = 12;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GetPrivateChatHistoryCsReq {
-  uint32 pageIndex = 2;
-  uint32 contactID = 14;
-}

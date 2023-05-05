@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "LLNCPDNOJJL.proto";
-
-message GetAllLineupDataScRsp {
-  repeated LLNCPDNOJJL jKMFKKCEOIL = 12;
-  uint32 pHFIDNJEABC = 3;
-  uint32 m_value = 10;
-}

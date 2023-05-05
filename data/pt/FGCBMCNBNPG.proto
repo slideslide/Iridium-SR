@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message FGCBMCNBNPG {
-  uint32 skillConfigID = 1;
-  double dCKLOLACMID = 2;
-  repeated uint32 dCDDOKHPCHN = 3;
-  double kIIADJKELDI = 4;
-}

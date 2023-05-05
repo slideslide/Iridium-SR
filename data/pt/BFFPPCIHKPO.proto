@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NNLKBJPJJGN.proto";
-
-message BFFPPCIHKPO {
-  repeated NNLKBJPJJGN fFDCNPLBIBN = 4;
-  NNLKBJPJJGN gCINBGLMDGM = 12;
-}

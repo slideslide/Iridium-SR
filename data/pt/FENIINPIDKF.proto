@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message FENIINPIDKF {
-  uint32 planeID = 9;
-  uint32 floorID = 11;
-  uint32 entityID = 13;
-}

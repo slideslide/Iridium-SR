@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FinishAeonDialogueGroupCsReq {
-  uint32 aeonID = 11;
-}

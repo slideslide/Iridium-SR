@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message KDPACEMGPBC {
-  uint32 rank = 12;
-  uint32 promotion = 1;
-  uint32 level = 6;
-  uint32 currentExp = 15;
-  uint32 mJFFFJOEPKJ = 11;
-}

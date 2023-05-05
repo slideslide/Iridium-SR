@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "AvatarType.proto";
-
-message MPHDJFFGPIN {
-  AvatarType characterAvatarType = 6;
-  uint32 id = 15;
-  uint32 slot = 4;
-}

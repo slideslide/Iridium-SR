@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TakeTrialActivityRewardScRsp {
-  uint32 stageID = 11;
-  uint32 m_value = 1;
-  ItemList itemList = 14;
-}

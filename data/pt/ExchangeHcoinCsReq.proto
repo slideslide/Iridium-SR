@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message ExchangeHcoinCsReq {
-  uint32 count = 10;
-}

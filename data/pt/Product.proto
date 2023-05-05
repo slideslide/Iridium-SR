@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum Product {
-  PRODUCT_NONE = 0;
-  PRODUCT_NORMAL = 1;
-  PRODUCT_LIMIT = 2;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HCFBMEBDAEG.proto";
-
-message EnterRogueMapRoomScRsp {
-  HCFBMEBDAEG _SceneInfo = 3;
-  uint32 curSiteID = 6;
-  uint32 m_value = 1;
-}

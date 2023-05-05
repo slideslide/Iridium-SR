@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "AvatarType.proto";
-
-message PFLFKABMJKP {
-  uint32 id = 13;
-  AvatarType characterAvatarType = 15;
-  uint32 pEHLPPIINLH = 8;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum CmdArchiveType {
-  CmdArchiveTypeNone = 0;
-  CmdGetArchiveDataScRsp = 2333;
-  CmdGetUpdatedArchiveDataCsReq = 2319;
-  CmdGetUpdatedArchiveDataScRsp = 2397;
-  CmdGetArchiveDataCsReq = 2352;
-}

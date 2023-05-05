@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message StartBoxingClubBattleCsReq {
-  uint32 challengeID = 5;
-}

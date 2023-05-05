@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MissionData.proto";
-
-message GetMissionEventDataScRsp {
-  uint32 m_value = 3;
-  repeated MissionData jGMCPPMKOCN = 1;
-  uint32 eKBBACDAEFL = 10;
-}

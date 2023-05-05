@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "TutorialStatus.proto";
-
-message Tutorial {
-  uint32 id = 15;
-  TutorialStatus status = 13;
-}

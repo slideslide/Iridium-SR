@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FHKDHKAGCFF.proto";
-
-message SceneEntityMoveCsReq {
-  repeated FHKDHKAGCFF kEGDFFIPEIC = 1;
-  uint64 kOHCLHMJIFN = 2;
-  uint32 curMapEntryID = 8;
-}

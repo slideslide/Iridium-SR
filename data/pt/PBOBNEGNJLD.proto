@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message PBOBNEGNJLD {
-  uint32 hJKCCCMPJCF = 3;
-  uint32 itemID = 4;
-}

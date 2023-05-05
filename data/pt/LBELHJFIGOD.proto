@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message LBELHJFIGOD {
-  uint32 useCount = 14;
-  uint32 totalCount = 7;
-  uint32 slotIndex = 4;
-  uint32 miracleID = 3;
-}

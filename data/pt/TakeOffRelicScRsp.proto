@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TakeOffRelicScRsp {
-  uint32 m_value = 13;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message MTPInformation {
-  string jALPEMEIPOJ = 9;
-  uint32 id = 1;
-}

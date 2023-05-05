@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message IJLAMBKHALF {
-  uint32 count1 = 1;
-  uint32 count6 = 6;
-  uint32 count = 2;
-}

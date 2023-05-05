@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GetGachaCeilingCsReq {
-  uint32 gachaType = 9;
-}

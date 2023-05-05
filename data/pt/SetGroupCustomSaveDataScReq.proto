@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message SetGroupCustomSaveDataScReq {
-  uint32 groupID = 12;
-  string cGBMDIEFFLD = 7;
-  uint32 curMapEntryID = 14;
-}

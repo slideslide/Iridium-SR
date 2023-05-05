@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message EnterMazeByEntranceIDCsReq {
-  uint32 teleportID = 2;
-  uint32 curMapEntryID = 14;
-}

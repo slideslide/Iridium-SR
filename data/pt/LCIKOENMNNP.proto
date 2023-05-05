@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "GDPCEDBIOGP.proto";
-
-message LCIKOENMNNP {
-  bool isAutoRecover = 6;
-  repeated GDPCEDBIOGP gHACGCFCLEN = 3;
-  uint32 totalRecoverPercentage = 4;
-}

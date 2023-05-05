@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MALFIANNJGP.proto";
-
-message GetBoxingClubInfoScRsp {
-  repeated MALFIANNJGP dFDEBOMCNJN = 4;
-  uint32 m_value = 2;
-}

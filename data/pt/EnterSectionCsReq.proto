@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message EnterSectionCsReq {
-  uint32 sectionID = 7;
-}

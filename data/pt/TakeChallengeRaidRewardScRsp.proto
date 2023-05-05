@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TakeChallengeRaidRewardScRsp {
-  ItemList itemList = 12;
-  uint32 m_value = 9;
-  uint32 rewardID = 1;
-}

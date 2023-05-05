@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message HHGLHAKHCOL {
-  bool isNew = 4;
-  uint32 nDMFHDEMBBE = 7;
-  uint32 id = 3;
-}

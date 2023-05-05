@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SavePointsInfoNotify {
-  uint32 validTimes = 8;
-  int64 refreshTime = 6;
-}

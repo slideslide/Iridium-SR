@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FinishFirstTalkNpcScRsp {
-  uint32 m_value = 1;
-  uint32 seriesID = 11;
-}

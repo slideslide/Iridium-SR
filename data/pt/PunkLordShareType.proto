@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum PunkLordShareType {
-  PUNK_LORD_SHARE_TYPE_NONE = 0;
-  PUNK_LORD_SHARE_TYPE_FRIEND = 1;
-  PUNK_LORD_SHARE_TYPE_ALL = 2;
-}

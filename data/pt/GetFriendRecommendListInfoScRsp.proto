@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "GECHBCOPCAB.proto";
-
-message GetFriendRecommendListInfoScRsp {
-  uint32 m_value = 10;
-  repeated GECHBCOPCAB kNPLPJHBPGI = 8;
-}

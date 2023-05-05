@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message FinishItemIdScRsp {
-  uint32 m_value = 12;
-  uint32 itemID = 6;
-  uint32 iDAFFOJCNGK = 8;
-}

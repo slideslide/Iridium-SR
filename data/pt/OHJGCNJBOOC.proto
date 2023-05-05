@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HNOMJODNGFA.proto";
-import "POHNFCLILHA.proto";
-
-message OHJGCNJBOOC {
-  HNOMJODNGFA fKABGAJEENM = 8;
-  POHNFCLILHA _AssistAvatarDetailInfo = 1;
-}

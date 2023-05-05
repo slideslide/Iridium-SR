@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "FCMECLMPDMI.proto";
-
-message SyncRogueMiracleSelectInfoScNotify {
-  FCMECLMPDMI hKDDIIHPCNA = 2;
-}

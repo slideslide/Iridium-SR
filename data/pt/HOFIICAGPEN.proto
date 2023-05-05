@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HOFIICAGPEN {
-  uint32 m_value = 8;
-  uint32 plotID = 4;
-}

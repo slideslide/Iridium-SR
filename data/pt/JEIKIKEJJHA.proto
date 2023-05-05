@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message JEIKIKEJJHA {
-  uint32 type = 12;
-  uint32 uID = 8;
-}

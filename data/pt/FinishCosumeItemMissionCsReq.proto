@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message FinishCosumeItemMissionCsReq {
-  ItemList itemList = 12;
-  uint32 subMissionID = 15;
-}

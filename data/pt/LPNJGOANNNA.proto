@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message LPNJGOANNNA {
-  uint32 pIOMGCCCLNC = 1;
-  uint32 totalScore = 2;
-}

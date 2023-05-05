@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PKBBKMPFMLP.proto";
-
-message GetPunkLordMonsterDataScRsp {
-  repeated PKBBKMPFMLP eLECBIBFGLL = 11;
-  uint32 m_value = 7;
-}

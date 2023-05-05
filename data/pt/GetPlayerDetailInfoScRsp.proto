@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EOJMMHOINNC.proto";
-
-message GetPlayerDetailInfoScRsp {
-  uint32 m_value = 4;
-  EOJMMHOINNC kBDPCFFFKGC = 10;
-}

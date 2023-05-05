@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message SetLineupNameScRsp {
-  uint32 m_value = 13;
-  uint32 index = 1;
-  string name = 14;
-}

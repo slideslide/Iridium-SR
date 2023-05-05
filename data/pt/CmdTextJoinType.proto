@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum CmdTextJoinType {
-  CmdTextJoinTypeNone = 0;
-  CmdTextJoinQueryScRsp = 3897;
-  CmdTextJoinQueryCsReq = 3819;
-  CmdTextJoinSaveScRsp = 3833;
-  CmdTextJoinSaveCsReq = 3852;
-}

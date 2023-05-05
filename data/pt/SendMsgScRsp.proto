@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SendMsgScRsp {
-  uint32 m_value = 3;
-  uint64 endTimeStamp = 1;
-}

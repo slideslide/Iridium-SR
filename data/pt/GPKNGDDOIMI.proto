@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum GPKNGDDOIMI {
-  GPKNGDDOIMI_None = 0;
-  GPKNGDDOIMI_UpdateBuffInfo = 5;
-  GPKNGDDOIMI_DeleteBuffId = 2;
-}

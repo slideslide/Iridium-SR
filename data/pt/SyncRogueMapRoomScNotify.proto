@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EJGFGOLDOJI.proto";
-
-message SyncRogueMapRoomScNotify {
-  EJGFGOLDOJI gDAIGHMJKLP = 1;
-  uint32 mapID = 8;
-}

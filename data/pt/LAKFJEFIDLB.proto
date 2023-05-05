@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "GachaCeilingAvatar.proto";
-
-message LAKFJEFIDLB {
-  repeated GachaCeilingAvatar nLDDFJCAHIA = 1;
-  uint32 kMKDJDJFHBJ = 5;
-  bool kKKOMBBFAOP = 15;
-}

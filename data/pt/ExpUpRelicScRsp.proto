@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PileItem.proto";
-
-message ExpUpRelicScRsp {
-  uint32 m_value = 8;
-  repeated PileItem pNMIKFILKDE = 11;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MissionData.proto";
-
-message COOKANIBGMG {
-  uint32 m_value = 8;
-  MissionData jGONKGMMKDD = 5;
-}

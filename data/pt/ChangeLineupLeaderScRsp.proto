@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ChangeLineupLeaderScRsp {
-  uint32 slot = 13;
-  uint32 m_value = 9;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SetLineupNameCsReq {
-  string name = 2;
-  uint32 index = 10;
-}

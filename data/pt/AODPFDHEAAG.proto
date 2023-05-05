@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HeroBasicType.proto";
-
-message AODPFDHEAAG {
-  bool isModify = 14;
-  HeroBasicType cPFHEHCDBKA = 11;
-  uint32 m_value = 9;
-}

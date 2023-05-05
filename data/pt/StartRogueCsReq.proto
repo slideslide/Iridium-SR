@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message StartRogueCsReq {
-  uint32 curVerifyServerEntityID = 3;
-  repeated uint32 kHGKJKJEJGF = 6;
-  uint32 aeonID = 13;
-  repeated uint32 mCJGAHCPGON = 11;
-  uint32 rogueAreaID = 7;
-}

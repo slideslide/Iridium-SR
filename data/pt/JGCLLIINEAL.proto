@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message JGCLLIINEAL {
-  uint64 cIIKEPAEGMG = 13;
-  uint32 count = 12;
-  uint32 mJFFFJOEPKJ = 4;
-}

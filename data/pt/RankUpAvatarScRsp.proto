@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message RankUpAvatarScRsp {
-  uint32 m_value = 12;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BOGGPAELPEP.proto";
-
-message ReEnterLastElementStageScRsp {
-  BOGGPAELPEP mEGJDKGGEOJ = 1;
-  uint32 stageID = 7;
-  uint32 m_value = 9;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SetIsDisplayAvatarInfoScRsp {
-  uint32 m_value = 13;
-  bool isDisplayAvatarList = 6;
-}

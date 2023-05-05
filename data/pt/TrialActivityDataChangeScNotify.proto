@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LGCPJJLKONL.proto";
-
-message TrialActivityDataChangeScNotify {
-  LGCPJJLKONL hOMLPBOENNC = 6;
-}

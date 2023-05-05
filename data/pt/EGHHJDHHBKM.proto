@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message EGHHJDHHBKM {
-  int64 beginTimeStamp = 1;
-  int64 endTimeStamp = 2;
-  uint32 gFBMACOFAEA = 3;
-  uint32 mJMIEEFNBNI = 4;
-}

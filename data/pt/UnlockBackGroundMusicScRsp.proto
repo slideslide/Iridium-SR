@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BNJPOBDKEJK.proto";
-
-message UnlockBackGroundMusicScRsp {
-  uint32 m_value = 13;
-  repeated uint32 jKOANMHHEMG = 14;
-  repeated BNJPOBDKEJK lODPNINHNFI = 15;
-}

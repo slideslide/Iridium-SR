@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "FLMKEBIIGJO.proto";
-
-message ChallengeRaidNotify {
-  FLMKEBIIGJO pAPJPGLBNEM = 8;
-}

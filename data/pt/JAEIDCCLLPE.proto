@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message JAEIDCCLLPE {
-  MPANFNCCGPC aHECMHKBDFP = 7;
-  uint32 belongAvatarID = 5;
-}

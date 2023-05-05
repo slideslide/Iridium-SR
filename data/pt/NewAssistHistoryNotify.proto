@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message NewAssistHistoryNotify {
-  uint32 assistRewardCount = 5;
-}

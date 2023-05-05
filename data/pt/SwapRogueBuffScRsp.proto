@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NNLKBJPJJGN.proto";
-
-message SwapRogueBuffScRsp {
-  NNLKBJPJJGN mGAPDNKFAFA = 1;
-  uint32 m_value = 8;
-  NNLKBJPJJGN gCINBGLMDGM = 9;
-}

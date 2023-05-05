@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FinishFirstTalkNpcCsReq {
-  uint32 seriesID = 14;
-}

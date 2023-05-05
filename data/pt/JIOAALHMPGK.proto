@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "Language.proto";
-
-message JIOAALHMPGK {
-  uint32 m_value = 7;
-  Language curLanguageType = 2;
-}

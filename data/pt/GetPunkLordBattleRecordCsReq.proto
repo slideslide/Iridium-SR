@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OPPICHMGKGE.proto";
-
-message GetPunkLordBattleRecordCsReq {
-  OPPICHMGKGE lGKFMLEHIMN = 1;
-}

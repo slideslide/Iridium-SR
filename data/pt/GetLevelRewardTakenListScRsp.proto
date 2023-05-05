@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GetLevelRewardTakenListScRsp {
-  repeated uint32 bEDCGBJOGGC = 14;
-  uint32 m_value = 6;
-}

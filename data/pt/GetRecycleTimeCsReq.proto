@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GetRecycleTimeCsReq {
-  repeated uint32 lPJFIMIPKFK = 11;
-}

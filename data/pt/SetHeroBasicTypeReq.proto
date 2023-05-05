@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "HeroBasicType.proto";
-
-message SetHeroBasicTypeReq {
-  HeroBasicType jCIKMHKIOIM = 9;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TakeTalkRewardScRsp {
-  uint32 talkEventID = 1;
-  ItemList itemList = 7;
-  uint32 m_value = 12;
-}

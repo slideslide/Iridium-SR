@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GetRndOptionCsReq {
-  uint32 id = 9;
-}

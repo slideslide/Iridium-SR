@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message IDMMFMGMKEE {
-  MPANFNCCGPC jIBFFPHDNAD = 3;
-  uint32 equipmentUID = 8;
-}

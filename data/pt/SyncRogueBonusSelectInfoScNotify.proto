@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ALNODEJPDCK.proto";
-
-message SyncRogueBonusSelectInfoScNotify {
-  ALNODEJPDCK cPKLMEGKGGI = 12;
-}

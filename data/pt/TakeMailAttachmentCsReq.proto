@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakeMailAttachmentCsReq {
-  repeated uint32 eFLPKLEGAIA = 8;
-  uint32 optionalRewardID = 13;
-}

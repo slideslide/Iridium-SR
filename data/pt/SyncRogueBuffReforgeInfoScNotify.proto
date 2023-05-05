@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "EEKPOGGAGFI.proto";
-
-message SyncRogueBuffReforgeInfoScNotify {
-  EEKPOGGAGFI mDDNMPJCHPP = 9;
-}

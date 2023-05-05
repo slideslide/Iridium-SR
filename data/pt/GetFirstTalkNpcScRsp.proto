@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "POHJIPIFCOC.proto";
-
-message GetFirstTalkNpcScRsp {
-  repeated POHJIPIFCOC pMLMJAACLDG = 9;
-  uint32 m_value = 5;
-}

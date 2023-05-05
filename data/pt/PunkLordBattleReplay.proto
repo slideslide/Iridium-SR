@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EHNLDDLEJGO.proto";
-
-message PunkLordBattleReplay {
-  string battleReplayKey = 1;
-  EHNLDDLEJGO replayInfo = 2;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FightActivityGroup.proto";
-
-message GetFightActivityDataScRsp {
-  repeated FightActivityGroup pFOCBIAGPEJ = 2;
-  map<uint32, uint32> jOKKBKJNEIA = 15;
-  uint32 m_value = 6;
-}

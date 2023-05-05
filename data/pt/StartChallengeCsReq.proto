@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message StartChallengeCsReq {
-  uint32 challengeID = 14;
-  uint32 curVerifyServerEntityID = 8;
-}

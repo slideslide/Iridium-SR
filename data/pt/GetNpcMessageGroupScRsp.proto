@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "AIKPGOLFBNE.proto";
-
-message GetNpcMessageGroupScRsp {
-  repeated AIKPGOLFBNE aNBCHNDMELE = 9;
-  uint32 m_value = 14;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FLMKEBIIGJO.proto";
-
-message FNPFHLBNMIG {
-  repeated FLMKEBIIGJO iIGNEPJAMIN = 13;
-  repeated uint32 jBMPANDABNC = 5;
-  uint32 m_value = 10;
-}

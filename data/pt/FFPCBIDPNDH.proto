@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message FFPCBIDPNDH {
-  float hJEOMLMPDDG = 6;
-  uint32 buffID = 10;
-  MPANFNCCGPC jIBFFPHDNAD = 11;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message PHEBNHILEKI {
-  uint32 rank = 4;
-  uint32 belongAvatarID = 7;
-  MPANFNCCGPC jIBFFPHDNAD = 1;
-}

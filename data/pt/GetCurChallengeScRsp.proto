@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NOEACEGLLDB.proto";
-
-message GetCurChallengeScRsp {
-  uint32 m_value = 13;
-  NOEACEGLLDB cIMGPHGOPHM = 3;
-}

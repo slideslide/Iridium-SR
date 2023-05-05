@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "GFHJOJHANJD.proto";
-
-message RollRogueBuffScRsp {
-  uint32 m_value = 14;
-  GFHJOJHANJD gAKGNIIDINK = 2;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KGIIDAJFBHF.proto";
-
-message DailyActiveInfoNotify {
-  repeated KGIIDAJFBHF hMHEJHCHKGH = 9;
-  uint32 lOFEHPLHBAN = 11;
-  repeated uint32 hPGBHIIPEBG = 15;
-}

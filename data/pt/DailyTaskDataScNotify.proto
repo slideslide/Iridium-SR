@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LKIEEFEKABP.proto";
-
-message DailyTaskDataScNotify {
-  repeated LKIEEFEKABP jCHPBCDFGDG = 2;
-  uint32 dANHIKAGHAM = 14;
-}

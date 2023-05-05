@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GetLevelRewardReq {
-  uint32 curVerifyServerEntityID = 1;
-  uint32 level = 13;
-}

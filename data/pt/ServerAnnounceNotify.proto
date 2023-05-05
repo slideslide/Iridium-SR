@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "JFODNACIOCP.proto";
-
-message ServerAnnounceNotify {
-  repeated JFODNACIOCP nBDEOGABBMN = 12;
-}

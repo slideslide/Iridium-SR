@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HCFBMEBDAEG.proto";
-
-message NMHCJOJNPAO {
-  uint32 m_value = 9;
-  HCFBMEBDAEG _SceneInfo = 1;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NOIAOHLPAMP.proto";
-
-message FGHPOOPJKJH {
-  repeated NOIAOHLPAMP eIDKBJHHEKE = 2;
-  uint32 m_value = 13;
-}

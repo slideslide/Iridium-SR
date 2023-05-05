@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message LeaveRaidCsReq {
-  uint32 currentRaidID = 1;
-  bool isSave = 9;
-}

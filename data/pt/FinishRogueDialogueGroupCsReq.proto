@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FinishRogueDialogueGroupCsReq {
-  uint32 curVerifyServerEntityID = 10;
-  uint32 lPEACMPAHFF = 8;
-}

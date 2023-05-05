@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TakeOffEquipmentCsReq {
-  uint32 belongAvatarID = 5;
-}

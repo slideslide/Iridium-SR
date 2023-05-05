@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SetGameplayBirthdayScRsp {
-  uint32 m_value = 11;
-  uint32 birthday = 2;
-}

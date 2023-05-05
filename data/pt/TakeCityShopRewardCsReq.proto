@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message TakeCityShopRewardCsReq {
-  uint32 shopID = 7;
-  uint32 level = 15;
-}

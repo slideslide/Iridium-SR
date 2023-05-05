@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TakeQuestRewardScRsp {
-  ItemList itemList = 9;
-  repeated uint32 jBEHIEGPIBM = 11;
-  uint32 m_value = 7;
-}

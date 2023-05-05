@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message SetNickNameRsp {
-  bool isModify = 5;
-  string nickName = 15;
-}

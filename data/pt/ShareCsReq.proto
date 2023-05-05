@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message ShareCsReq {
-  uint32 shareID = 7;
-}

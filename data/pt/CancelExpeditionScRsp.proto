@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message CancelExpeditionScRsp {
-  uint32 m_value = 2;
-  uint32 expeditionID = 8;
-}

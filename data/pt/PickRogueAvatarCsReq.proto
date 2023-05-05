@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message PickRogueAvatarCsReq {
-  repeated uint32 mCJGAHCPGON = 11;
-  repeated uint32 kHGKJKJEJGF = 15;
-  uint32 entityID = 13;
-}

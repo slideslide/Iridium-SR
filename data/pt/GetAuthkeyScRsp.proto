@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message GetAuthkeyScRsp {
-  uint32 m_value = 15;
-  string jFFFNMBALJA = 6;
-  uint32 cIFHHBJIJLF = 1;
-  uint32 pJEPIBDPFLM = 2;
-  string dIDONFEKLOD = 10;
-}

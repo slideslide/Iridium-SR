@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message KEOCOCHFCOG {
-  uint32 performanceID = 6;
-  bool aCGJHGEMGPD = 10;
-}

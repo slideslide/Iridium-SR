@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LGCIMIOFBCP.proto";
-
-message GetUpdatedArchiveDataScRsp {
-  uint32 m_value = 14;
-  LGCIMIOFBCP nMKBCANGIII = 10;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message Goods {
-  uint32 buyTimes = 3;
-  int64 beginTime = 2;
-  uint32 itemId = 14;
-  uint32 goodsId = 1;
-  int64 endTime = 10;
-}

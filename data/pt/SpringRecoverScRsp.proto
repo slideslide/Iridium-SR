@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HCMHCAPMDNO.proto";
-
-message SpringRecoverScRsp {
-  uint32 retcode = 6;
-  HCMHCAPMDNO healPoolInfo = 10;
-}

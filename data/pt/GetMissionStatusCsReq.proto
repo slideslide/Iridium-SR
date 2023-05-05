@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message GetMissionStatusCsReq {
-  repeated uint32 eLBHFGHLALN = 14;
-  repeated uint32 cHKDPPJOOLC = 2;
-  repeated uint32 gGICEFFCEPJ = 15;
-}

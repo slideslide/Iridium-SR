@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message GetNpcTakenRewardScRsp {
-  repeated uint32 iKNLPGDIIDG = 15;
-  uint32 m_value = 8;
-  uint32 npcID = 10;
-}

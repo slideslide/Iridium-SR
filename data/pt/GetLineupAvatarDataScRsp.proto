@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PFLFKABMJKP.proto";
-
-message GetLineupAvatarDataScRsp {
-  repeated PFLFKABMJKP aLNAJAAMBFC = 5;
-  uint32 m_value = 7;
-}

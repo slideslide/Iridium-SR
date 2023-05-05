@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message PlayBackGroundMusicScRsp {
-  uint32 oCJAELCKKMP = 8;
-  uint32 m_value = 5;
-  uint32 musicID = 10;
-}

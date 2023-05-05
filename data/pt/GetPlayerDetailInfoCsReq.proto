@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GetPlayerDetailInfoCsReq {
-  uint32 uID = 10;
-}

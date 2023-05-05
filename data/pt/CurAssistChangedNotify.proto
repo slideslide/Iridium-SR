@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OHJGCNJBOOC.proto";
-
-message CurAssistChangedNotify {
-  OHJGCNJBOOC dCJLABAGHPC = 12;
-}

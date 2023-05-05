@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JGCLLIINEAL.proto";
-
-message GetRecyleTimeScRsp {
-  uint32 m_value = 2;
-  repeated JGCLLIINEAL jPFKMMIGBJE = 4;
-}

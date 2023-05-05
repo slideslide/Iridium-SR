@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message EONDCKEHLGE {
-  bool isNew = 6;
-  repeated uint32 jBMPANDABNC = 12;
-  uint32 jGAPCKGFEPH = 11;
-  uint32 id = 9;
-}

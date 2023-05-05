@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "LBELHJFIGOD.proto";
-import "RogueMiracleSourceType.proto";
-
-message UpdateRogueMiracleScNotify {
-  repeated LBELHJFIGOD kPGOBMHGJDN = 7;
-  RogueMiracleSourceType pJFNNLLKCAC = 15;
-}

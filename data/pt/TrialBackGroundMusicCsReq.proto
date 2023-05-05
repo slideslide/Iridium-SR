@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message TrialBackGroundMusicCsReq {
-  uint32 musicID = 10;
-}

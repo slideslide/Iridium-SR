@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "EJBHMNPFFCD.proto";
-
-message ExpeditionDataChangeScNotify {
-  uint32 iJJLIGEJLKP = 10;
-  repeated uint32 bHLIDAJKIEG = 7;
-  repeated EJBHMNPFFCD mGGCJAFHCJG = 8;
-}

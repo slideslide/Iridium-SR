@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message EnterFightActivityStageCsReq {
-  uint32 difficultyLevel = 12;
-  repeated uint32 nLDDFJCAHIA = 3;
-  uint32 groupID = 1;
-  repeated uint32 eHJDNGJBCFD = 8;
-}

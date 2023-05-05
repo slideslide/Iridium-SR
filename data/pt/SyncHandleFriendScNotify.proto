@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KFFBLGCGPIK.proto";
-
-message SyncHandleFriendScNotify {
-  bool isAccept = 12;
-  KFFBLGCGPIK hOHMEEHEDKM = 10;
-  uint32 uID = 15;
-}

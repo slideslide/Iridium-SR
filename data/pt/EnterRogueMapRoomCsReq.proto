@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message EnterRogueMapRoomCsReq {
-  uint32 nextRogueRoomID = 12;
-  uint32 nextRogueSiteID = 13;
-}

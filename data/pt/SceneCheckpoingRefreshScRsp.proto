@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SceneCheckpoingRefreshScRsp {
-  uint32 m_value = 10;
-}

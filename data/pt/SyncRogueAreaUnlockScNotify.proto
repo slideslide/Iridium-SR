@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message SyncRogueAreaUnlockScNotify {
-  uint32 rogueAreaID = 2;
-}

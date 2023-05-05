@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "EONDCKEHLGE.proto";
-import "HHGLHAKHCOL.proto";
-
-message HMHJLFNLJAC {
-  EONDCKEHLGE bODFJCBAHKG = 2;
-  repeated HHGLHAKHCOL fEDBDAFFCFI = 7;
-}

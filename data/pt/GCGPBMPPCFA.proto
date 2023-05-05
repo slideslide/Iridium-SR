@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum GCGPBMPPCFA {
-  GCGPBMPPCFA_None = 0;
-  GCGPBMPPCFA_ItemResult = 3;
-}

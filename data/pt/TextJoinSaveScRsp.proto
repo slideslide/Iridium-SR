@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message TextJoinSaveScRsp {
-  string aNEGCILFLHN = 8;
-  uint32 iD = 5;
-  uint32 m_value = 11;
-  uint32 itemID = 14;
-}

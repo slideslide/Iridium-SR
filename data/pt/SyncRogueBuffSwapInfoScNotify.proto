@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "BFFPPCIHKPO.proto";
-
-message SyncRogueBuffSwapInfoScNotify {
-  BFFPPCIHKPO mDKAFCOOCEP = 11;
-}

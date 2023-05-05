@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message StartFinishSubMissionScNotify {
-  uint32 subMissionID = 9;
-}

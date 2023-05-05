@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message TrainVisitorBehaviorFinishScRsp {
-  uint32 visitorID = 3;
-  ItemList itemList = 15;
-  uint32 m_value = 14;
-}

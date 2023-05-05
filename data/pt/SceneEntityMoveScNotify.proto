@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OEFEOGHDJIO.proto";
-
-message SceneEntityMoveScNotify {
-  OEFEOGHDJIO hMKLFKCMLNL = 2;
-  uint32 characterID = 12;
-  uint32 hOCBBLHJJNI = 13;
-}

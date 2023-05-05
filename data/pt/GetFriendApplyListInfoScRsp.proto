@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HEDLAFGOBGI.proto";
-
-message GetFriendApplyListInfoScRsp {
-  repeated uint32 lAFCKBBFIHL = 4;
-  repeated HEDLAFGOBGI pCJBBCOLJMJ = 14;
-  uint32 m_value = 1;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum HNAEKCMKDDM {
-  HNAEKCMKDDM_None = 0;
-  HNAEKCMKDDM_RogueInfo = 3;
-  HNAEKCMKDDM_TrainVisitorInfo = 11;
-}

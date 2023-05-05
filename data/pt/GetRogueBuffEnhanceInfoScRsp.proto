@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EGJDKAOENMB.proto";
-
-message GetRogueBuffEnhanceInfoScRsp {
-  uint32 m_value = 1;
-  EGJDKAOENMB nKCPMLAJDGB = 6;
-}

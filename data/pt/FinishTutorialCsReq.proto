@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FinishTutorialCsReq {
-  uint32 tutorialID = 4;
-}

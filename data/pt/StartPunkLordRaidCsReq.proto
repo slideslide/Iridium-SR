@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message StartPunkLordRaidCsReq {
-  uint32 uID = 13;
-  uint32 monsterID = 3;
-  bool isPowerAttack = 7;
-}

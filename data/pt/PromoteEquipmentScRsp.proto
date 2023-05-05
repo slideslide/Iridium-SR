@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message PromoteEquipmentScRsp {
-  uint32 m_value = 5;
-}

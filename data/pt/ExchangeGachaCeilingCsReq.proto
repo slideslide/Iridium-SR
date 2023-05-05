@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ExchangeGachaCeilingCsReq {
-  uint32 gachaType = 4;
-  uint32 realID = 10;
-}

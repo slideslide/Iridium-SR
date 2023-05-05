@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message GetAssistHistoryScRsp {
-  uint32 assistDayCount = 2;
-  uint32 assistTotalCount = 7;
-  uint32 assistRewardCount = 11;
-  uint32 m_value = 9;
-  repeated uint32 dKCALLBINNF = 6;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "LAKFJEFIDLB.proto";
-
-message GetGachaCeilingScRsp {
-  uint32 m_value = 12;
-  LAKFJEFIDLB gAKLKHOMGBN = 13;
-  uint32 gachaType = 11;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FHBEBAPKNKM.proto";
-
-message GetQuestDataScRsp {
-  uint32 m_value = 6;
-  uint32 cPFBENGOFIK = 14;
-  repeated FHBEBAPKNKM oEOJNINIGMB = 8;
-}

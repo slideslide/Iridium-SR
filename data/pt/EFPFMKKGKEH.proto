@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message EFPFMKKGKEH {
-  uint32 killedMonsterCountByID = 11;
-  uint32 monsterID = 4;
-}

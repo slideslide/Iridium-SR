@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FinishSectionIdCsReq {
-  uint32 sectionID = 13;
-}
