@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message AAMINOJCMCO {
+  uint32 level = 15;
+  uint32 aeonID = 6;
+  ItemList itemList = 12;
+}

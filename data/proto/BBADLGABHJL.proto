@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message BBADLGABHJL {
+  uint32 skillConfigID = 1;
+  string kCNEBPFKHGB = 2;
+  uint32 hBABKOMBFAA = 3;
+  uint32 cLMLNADGKHP = 4;
+}

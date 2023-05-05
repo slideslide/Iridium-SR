@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message BNPLFIMEAPC {
+  uint32 realID = 1;
+  repeated uint32 iCFEMBOFGEH = 2;
+  uint32 pJFNNLLKCAC = 3;
+  double kIIADJKELDI = 4;
+  repeated uint32 dAIDMKEGCKN = 5;
+  int32 eIPIECCGMBL = 6;
+  double pIEDFPMLJHO = 7;
+  uint32 hAGKNLAOEJC = 8;
+}

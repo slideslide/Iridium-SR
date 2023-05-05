@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "RogueDialogueResult.proto";
+import "ItemList.proto";
+
+message ABCDBKHPCEM {
+  oneof GCGPBMPPCFA {
+    ItemList itemResult = 3;
+  }
+  repeated uint32 nOAACLMDBKK = 11;
+  RogueDialogueResult jJMBDNCAJBA = 1;
+}

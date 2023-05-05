@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EJBHMNPFFCD.proto";
+
+message AcceptExpeditionCsReq {
+  EJBHMNPFFCD expedition = 8;
+}

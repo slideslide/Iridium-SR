@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum BOPLKPMALHL {
+  BOPLKPMALHL_None = 0;
+  BOPLKPMALHL_Material = 3;
+  BOPLKPMALHL_Equipment = 13;
+  BOPLKPMALHL_Relic = 5;
+}

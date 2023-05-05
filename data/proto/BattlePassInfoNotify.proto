@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "BpTierType.proto";
+
+message BattlePassInfoNotify {
+  uint64 lHFCLLJNAMH = 12;
+  uint64 dPEDADGDBKF = 13;
+  uint32 _BattlePassData = 15;
+  uint64 lODMLIIENAK = 4;
+  uint64 lKFPPJMMBBG = 2;
+  uint32 level = 3;
+  BpTierType purchaseType = 5;
+  uint32 currentExp = 10;
+  uint32 weekGainedExp = 14;
+}
